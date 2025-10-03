@@ -8,7 +8,7 @@ Client requested a dashboard showing distribution of customers by:
 - Vehicle Size  
 - Customer Lifetime Value (CLV)  
 - Income  
-- With focus on Total Claim Amount (TCA)  
+- with focus on Total Claim Amount (TCA)  
 
 ## Implementation
 
