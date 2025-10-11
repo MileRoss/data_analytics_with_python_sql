@@ -28,7 +28,8 @@ Client requested a dashboard showing distribution of customers by:
 2. Saved locally as `we_fn_use_c_marketing_customer_value_analysis.csv` (1.6 MB).  
 3. Imported into Tableau via `Connect: To a File: Text file`.  
 
-**Alternative:** Save to Google Drive and connect via `Connect: To a Server: Google Drive`. May require troubleshooting if Tableau cannot communicate with Drive.  
+**Alternative:** Save to Google Drive and connect via `Connect: To a Server: Google Drive`. See Troubleshooting if Tableau cannot communicate with Drive.  
+<img src="https://raw.githubusercontent.com/MileRoss/data_analytics_with_python_sql/main/w6_tableau/tableau_analysis_-_ibm_watson_marketing_customer_value/images/connect_to_google_drive.jpg" width="50%">  
 
 ### Dashboard 1
 **Layout:** 3 horizontal strips + 1 vertical strip on the right  
@@ -43,6 +44,7 @@ Client requested a dashboard showing distribution of customers by:
 **Client feedback:**  
 - Too busy, geographical map and treemap too small  
 - Filters not obvious; Gender filter breaks donuts  
+<img src="https://raw.githubusercontent.com/MileRoss/data_analytics_with_python_sql/main/w6_tableau/tableau_analysis_-_ibm_watson_marketing_customer_value/images/donuts.jpg" width="50%">  
 
 **Client request:**  
 - Simplify dashboard  
@@ -89,7 +91,15 @@ Client requested a dashboard showing distribution of customers by:
 **Best experience:**  
 - Open on PC or laptop (Chrome/Safari)  
 - Full screen, Actual Size  
-- Click "See this in full screen" in Public Tableau UI  
+- Click "See this in full screen" in Public Tableau UI, else some visuals or filters won't show.  
+<img src="https://raw.githubusercontent.com/MileRoss/data_analytics_with_python_sql/main/w6_tableau/tableau_analysis_-_ibm_watson_marketing_customer_value/images/see_this_in_full_screen.jpg" width="50%">  
+
+Not in full screen:  
+<img src="https://raw.githubusercontent.com/MileRoss/data_analytics_with_python_sql/main/w6_tableau/tableau_analysis_-_ibm_watson_marketing_customer_value/images/not_full_screen.jpg" width="50%">  
+
+Full screen:  
+<img src="https://raw.githubusercontent.com/MileRoss/data_analytics_with_python_sql/main/w6_tableau/tableau_analysis_-_ibm_watson_marketing_customer_value/images/full_screen.jpg" width="50%">  
+
 
 **Note:**  
 - Dashboards auto-resize on computers  
