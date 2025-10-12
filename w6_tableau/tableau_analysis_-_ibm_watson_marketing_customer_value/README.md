@@ -117,10 +117,10 @@ The client requested a dashboard showing the distribution of customers by:
 
 <img src="https://raw.githubusercontent.com/MileRoss/data_analytics_with_python_sql/main/w6_tableau/tableau_analysis_-_ibm_watson_marketing_customer_value/images/see_this_in_full_screen.jpg" width="500">  
 
-**Not in full screen:**
+**Not in full screen:**  
 <img src="https://raw.githubusercontent.com/MileRoss/data_analytics_with_python_sql/main/w6_tableau/tableau_analysis_-_ibm_watson_marketing_customer_value/images/not_full_screen.jpg" width="500">  
 
-**Full screen:**
+**Full screen:**  
 <img src="https://raw.githubusercontent.com/MileRoss/data_analytics_with_python_sql/main/w6_tableau/tableau_analysis_-_ibm_watson_marketing_customer_value/images/full_screen.jpg" width="500">  
 
 
