@@ -1,0 +1,1008 @@
+name,country,region,winery,rating,no_ratings,price,year,type
+Crmant de Loire Brut 2017,France,Crmant de Loire,Langlois-Chateau,3.9,25,14.41,2017,sparkling
+Vicar's Choice Sauvignon Blanc Bubbles 2019,New Zealand,Marlborough,Saint Clair,4.2,25,11.9,2019,sparkling
+Crmant de Limoux Brut N.V.,France,Crmant de Limoux,Prima Perla,3.5,25,14.32,N.V.,sparkling
+Athesis Brut 2016,Italy,Sdtirol - Alto Adige,Kettmeir,4.0,25,21.5,2016,sparkling
+Blanc de Blancs Rserve Brut Nature N.V.,Germany,Pfalz,Eymann,3.9,25,31.18,N.V.,sparkling
+Riesling Extra Brut 2015,Germany,Baden,Griesel & Compagnie,4.0,25,22.13,2015,sparkling
+Slection Demi-Sec Champagne Premier Cru N.V.,France,Champagne Premier Cru,Henriet-Bazin,4.1,25,25.0,N.V.,sparkling
+Cava Imperial Brut N.V.,Spain,Cava,Cautiu,3.8,25,9.45,N.V.,sparkling
+Pinot Brut N.V.,Germany,Baden,Weingut Kilian Hunn,3.5,25,13.54,N.V.,sparkling
+Rosato Frizzante N.V.,Italy,Veneto,Le Carline,3.9,25,7.95,N.V.,sparkling
+Brut N.V.,Portugal,Alentejo,Sexy,3.7,26,15.0,N.V.,sparkling
+Crmant de Loire L'Extra Ros N.V.,France,Crmant de Loire,Langlois-Chateau,3.7,26,14.4,N.V.,sparkling
+Brut 2012,United States,Anderson Valley,Roederer Estate,3.9,26,57.51,2012,sparkling
+Dom Ruinart Ros Brut Champagne 2007,France,Champagne,Ruinart,4.4,27,269.0,2007,sparkling
+Riesling Extra Brut N.V.,Germany,Pfalz,Eymann,4.0,27,18.6,N.V.,sparkling
+Donna Cora Spumante 2011,Italy,Toscana,Antinori,3.8,27,41.29,2011,sparkling
+Valdobbiadene Prosecco Superiore Millesimato Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco Superiore,Val d'Oca,3.6,27,11.04,N.V.,sparkling
+Asti Dolce 2017,Italy,Asti,Fontanafredda,3.6,27,14.87,2017,sparkling
+Riesling Brut 2008,Germany,Rheinhessen,Raumland,3.7,28,27.95,2008,sparkling
+Rosato Frizzante N.V.,Italy,Veneto,Fili,3.5,28,7.69,N.V.,sparkling
+Crmant d'Alsace Brut Prestige N.V.,France,Crmant d'Alsace,Domaine du Moulin de Dusenbach,3.8,28,14.95,N.V.,sparkling
+Schloss Castell Silvaner Brut N.V.,Germany,Franken,Castell,4.1,28,17.5,N.V.,sparkling
+Giovanni Galliano Brut Ros 2016,Italy,Piemonte,Borgo Maragliano,3.7,28,22.9,2016,sparkling
+Reyes de Aragn El Casto Brut Reserva N.V.,Spain,Cava,Bodegas Langa,3.8,29,7.95,N.V.,sparkling
+Crmant d'Alsace Brut N.V.,France,Crmant d'Alsace,Jean-Louis Schoepfer,3.7,29,14.0,N.V.,sparkling
+Amico Fil N.V.,Italy,delle Venezie,Paladin,3.6,29,6.21,N.V.,sparkling
+Moscato d'Asti 2019,Italy,Moscato d'Asti,Tenimenti Ca'Bianca,3.9,29,7.45,2019,sparkling
+San Carlo Moscato d'asti 2017,Italy,Moscato d'Asti,Montalbera,3.8,29,9.9,2017,sparkling
+Aotea Mthode Traditionnelle N.V.,New Zealand,Nelson,Seifried Estate,3.6,29,26.9,N.V.,sparkling
+Jolie Extra Dry Spumante 2016,Italy,Sicilia,Feudi Branciforti dei Bordonaro,3.6,30,9.9,2016,sparkling
+Sleever Brut Reserva Rosado N.V.,Spain,Cava,Vilarnau,3.6,30,10.99,N.V.,sparkling
+Punto Rosa Millesimato 2016,Italy,Veneto,Val d'Oca,3.9,30,11.95,2016,sparkling
+Cava Chardonnay Brut N.V.,Spain,Cava,Torre Oria,3.6,30,12.99,N.V.,sparkling
+Grand Cuve Arctic Fox N.V.,Australia,McLaren Vale,Fox Creek,3.7,30,18.81,N.V.,sparkling
+Riesling Brut N.V.,Luxembourg,Moselle,Bernard-Massard,3.7,30,10.49,N.V.,sparkling
+Brut Ros 2016,Germany,Baden,Griesel & Compagnie,4.0,30,31.0,2016,sparkling
+Brut 2010,Germany,Rheingau,Georg Breuer,3.7,30,35.9,2010,sparkling
+Carte d'Or Demi-Sec Champagne N.V.,France,Champagne,Drappier,3.8,30,29.89,N.V.,sparkling
+Vintage Chardonnay 2007,Germany,Rheinhessen,Raumland,4.4,30,70.18,2007,sparkling
+Mthode Cap Classique 2013,South Africa,Stellenbosch,Thelema,3.8,31,21.9,2013,sparkling
+Prosecco Extra Dry N.V.,Italy,Prosecco,Savian,3.6,31,10.95,N.V.,sparkling
+Cremant d'Alsace Blanc de Blancs N.V.,France,Crmant d'Alsace,Boeckel,4.0,31,15.5,N.V.,sparkling
+Pinot Blanc Brut N.V.,Germany,Rheingau,Barth,3.8,31,16.59,N.V.,sparkling
+Brachetto Piemonte 2018,Italy,Piemonte,Borgo Maragliano,4.2,31,9.9,2018,sparkling
+Ros Brut 2015,Germany,Rheingau,Schloss Vaux,3.6,31,25.0,2015,sparkling
+Cava Brut N.V.,Spain,Cava,Sard,3.4,31,7.99,N.V.,sparkling
+Blanc de Blancs Brut Champagne 2014,France,Champagne,Deutz,4.4,32,72.0,2014,sparkling
+Izar-Leku Hondarrabi Zuri 2016,Spain,Getariako Txakolina,Artadi,3.9,32,27.1,2016,sparkling
+Vecchia Modena Premium Mention Honorable 2019,Italy,Lambrusco di Sorbara,Cleto Chiarli,3.8,32,9.65,2019,sparkling
+Venti 2 Gold Cuve N.V.,Italy,delle Venezie,Borgo Molino,4.1,32,9.5,N.V.,sparkling
+36 Cuve Ros Brut N.V.,Italy,Vino d'Italia,Marsuret,3.8,32,10.9,N.V.,sparkling
+Crmant Riesling Brut N.V.,Luxembourg,Crmant de Luxembourg,Bernard-Massard,3.5,32,17.77,N.V.,sparkling
+Frizzante Prosecco N.V.,Italy,Prosecco,Ca' Ongaresca,4.0,32,7.27,N.V.,sparkling
+Donna Cora 2014,Italy,Franciacorta,Montenisa,4.0,33,36.5,2014,sparkling
+Kellermeister Edition Sekt Extra Trocken 2016,Germany,Saale-Unstrut,Winzervereinigung Freyburg-Unstrut,3.7,33,9.83,2016,sparkling
+Millesimato Brut 2014,Italy,Franciacorta,Monzio Compagnoni,3.7,33,17.9,2014,sparkling
+Quinquin Sparkling Ros N.V.,Austria,Burgenland,Esterhzy,3.7,33,12.1,N.V.,sparkling
+Perl Ros Riserva 2011,Italy,Trento,Ferrari,4.1,34,92.53,2011,sparkling
+Victor Mandois Brut Champagne 2008,France,Champagne,Mandois,3.9,34,37.97,2008,sparkling
+Etichetta Nera Spumante Extra Dry 2018,Italy,Veneto,Sacchetto,3.8,34,9.82,2018,sparkling
+Groe Reserve Brut Nature 2015,Austria,Kamptal,Jurtschitsch,3.9,34,22.13,2015,sparkling
+Crmant de Bourgogne Blanc de Blancs Extra Brut N.V.,France,Crmant de Bourgogne,Domaine Henri Boillot,4.0,34,22.5,N.V.,sparkling
+Asolo Prosecco Superiore Millesimato Extra Dry N.V.,Italy,Asolo Prosecco,Val d'Oca,3.8,34,14.41,N.V.,sparkling
+Vecchie Viti 2018,Italy,Conegliano-Valdobbiadene Prosecco,Ruggeri,4.0,35,22.99,2018,sparkling
+Cuve Clive 2014,South Africa,Robertson,Graham Beck,4.2,35,45.0,2014,sparkling
+Millsim Crmant du Jura Brut 2014,France,Crmant du Jura,Tissot-Maire,3.7,35,13.9,2014,sparkling
+Cuve Esplendor Vinyes Propies 2014,Spain,Peneds,Vardon Kennett,3.5,35,45.74,2014,sparkling
+Grande Cuve de Purcari Extra Brut 2016,Moldova,South Eastern,Chteau Purcari,4.4,35,49.98,2016,sparkling
+Ros Prestige Brut 2012,Germany,Rheinhessen,Raumland,4.1,36,20.28,2012,sparkling
+Blanc de Blancs Brut Champagne Premier Cru 2010,France,Champagne Premier Cru,Paul Michel,3.9,36,31.68,2010,sparkling
+Vigna Senza Nome Moscato d'Asti 2019,Italy,Moscato d'Asti,Braida,4.1,36,11.43,2019,sparkling
+Valdobbiadene Millesimato Brut 2017,Italy,Conegliano-Valdobbiadene Prosecco,Borgo Molino,4.1,36,14.9,2017,sparkling
+Brut Nature N.V.,Germany,Pfalz,Frank John,4.4,36,28.0,N.V.,sparkling
+Cuve Muggi Bubbles Day Extra Brut N.V.,Italy,Trentino-Alto Adige,Arunda,3.7,36,25.9,N.V.,sparkling
+Prosecco Millesimato Brut 2018,Italy,Prosecco,Fili,4.0,36,11.05,2018,sparkling
+Blanc de Noirs Brut 2016,Germany,Baden,Griesel & Compagnie,4.0,36,15.5,2016,sparkling
+Cuve Eugnie Crmant de Limoux Brut 2017,France,Crmant de Limoux,Antech,3.6,37,14.62,2017,sparkling
+61 Franciacorta Ros 1961,Italy,Franciacorta,Berlucchi,3.8,37,18.91,1961,sparkling
+Chiaretto Spumante Brut N.V.,Italy,Bardolino,Zeni,3.5,37,12.9,N.V.,sparkling
+Ocarosa Frizzanate Rosato N.V.,Italy,Veneto,Val d'Oca,3.6,37,4.9,N.V.,sparkling
+Cuve Marie-Luise Brut 2013,Germany,Rheinhessen,Raumland,3.8,38,17.55,2013,sparkling
+La Croisette Brut Champagne 2014,France,Champagne,Leclerc Briant,4.3,38,145.7,2014,sparkling
+Privat Trocken N.V.,Germany,Rheingau,Ohlig Sekt,3.7,38,6.81,N.V.,sparkling
+Brut Nature N.V.,Germany,Nahe,Korrell,4.2,38,17.9,N.V.,sparkling
+Crmant d'Alsace Brut N.V.,France,Crmant d'Alsace,Edouard Leiber,3.8,38,9.9,N.V.,sparkling
+Leonardo Trocken Pinot Ros N.V.,Germany,Baden,Haltinger Winzer,3.8,39,8.95,N.V.,sparkling
+Vintage Ros Brut Champagne 2012,France,Champagne,Veuve Clicquot,4.2,39,78.49,2012,sparkling
+Cristal Ros Brut Champagne (Millsim) 2012,France,Champagne,Louis Roederer,4.7,39,449.9,2012,sparkling
+Valdobbiadene Prosecco Superiore Brut Dosaggio Zero 2018,Italy,Conegliano-Valdobbiadene Prosecco,Col Vetoraz,3.5,39,14.9,2018,sparkling
+Graphic Ice Champagne N.V.,France,Champagne,Nicolas Feuillatte,3.5,40,39.0,N.V.,sparkling
+Reserve Ros Champagne 2005,France,Champagne,Charles Heidsieck,4.2,40,109.92,2005,sparkling
+Brut Champagne 2010,France,Champagne,Barons de Rothschild (Lafite),4.3,41,75.95,2010,sparkling
+Inspiration de Saison Extra Brut Champagne 2010,France,Champagne,Michel Loriot,3.9,41,37.64,2010,sparkling
+Rosa Regale 2019,Italy,Brachetto d'Acqui,Banfi,4.0,42,7.6,2019,sparkling
+Prosecco Valdobbiadene Rive di Refrontolo Superiore Brut 2018,Italy,Conegliano-Valdobbiadene Prosecco,Santa Margherita,3.8,42,16.07,2018,sparkling
+Franciacorta Ros 2013,Italy,Franciacorta,Bellavista,3.9,43,57.61,2013,sparkling
+Pinot Ros Brut N.V.,Germany,Pfalz,Eymann,3.5,43,16.9,N.V.,sparkling
+Athesis Brut Ros 2016,Italy,Sdtirol - Alto Adige,Kettmeir,3.9,43,23.11,2016,sparkling
+Il Vino dei Poeti Gold 2018,Italy,Prosecco,Bottega,3.9,43,19.4,2018,sparkling
+Elixir Dry Champagne N.V.,France,Champagne,Pommery,3.7,43,41.39,N.V.,sparkling
+Frizzantino Dolce N.V.,Italy,Emilia,Gualtieri,4.2,43,3.15,N.V.,sparkling
+Millesimato Extra Dry Prosecco 2017,Italy,Prosecco,Paladin,3.7,43,11.36,2017,sparkling
+Brut Ros A Champagne N.V.,France,Champagne,Pierre Leboeuf,3.8,44,33.95,N.V.,sparkling
+Crmant du Jura Brut Ros N.V.,France,Crmant du Jura,Tissot-Maire,4.0,45,12.9,N.V.,sparkling
+Trentasei 2014,Italy,Modena,Cantina della Volta,3.8,45,24.4,2014,sparkling
+SomnamBulles 2017,France,Vin de France,Mas del Pri - Fabien Jouves,3.8,46,13.9,2017,sparkling
+Brut Methode Cap Classique N.V.,South Africa,Constantia,Buitenverwachting,3.8,46,14.5,N.V.,sparkling
+Brut Nature N.V.,Germany,Pfalz,Leiner,4.2,46,25.0,N.V.,sparkling
+Authentique Ros Brut Champagne N.V.,France,Champagne,Le Brun de Neuville,4.1,46,40.0,N.V.,sparkling
+Trento Brut Millesimato N.V.,Italy,Trento,Endrizzi,3.7,47,16.7,N.V.,sparkling
+Prosecco Treviso Millesimato Extra Dry 2018,Italy,Prosecco di Treviso,Sanmartino,3.9,47,10.5,2018,sparkling
+Riesling Brut N.V.,Germany,Pfalz,Koehler-Ruprecht,3.8,47,35.41,N.V.,sparkling
+Carte Ros Brut Champagne N.V.,France,Champagne,Irroy,3.7,47,39.95,N.V.,sparkling
+Crmant de Loire Brut N.V.,France,Crmant de Loire,Chapin & Landais,4.0,47,10.86,N.V.,sparkling
+Cava Reserva Semi Seco N.V.,Spain,Cava,Segura Viudas,3.5,47,11.83,N.V.,sparkling
+Cremant d'Alsace Reserve de l'Abbaye Chardonnay N.V.,France,Crmant d'Alsace,Arthur Metz,3.9,48,14.09,N.V.,sparkling
+Cuve Vaux Brut 2016,Germany,Rheingau,Schloss Vaux,3.9,48,11.62,2016,sparkling
+Millesim Carte d'Or Brut Champagne Premier Cru 2010,France,Champagne Premier Cru,Henriet-Bazin,3.9,48,39.95,2010,sparkling
+Ultra N.V.,Germany,Rheingau,Barth,4.3,48,31.53,N.V.,sparkling
+Auris Brut N.V.,Italy,Veneto,Villa Sandi,3.8,48,17.5,N.V.,sparkling
+Cava Reyes de Aragn Reserva Brut Nature N.V.,Spain,Calatayud,Bodegas Langa,3.5,49,14.9,N.V.,sparkling
+Crmant de Loire Brut N.V.,France,Crmant de Loire,Louis Despas & Cie,3.6,49,14.32,N.V.,sparkling
+Crmant de Bourgogne Brut N.V.,France,Crmant de Bourgogne,Chteau de la Greffire,3.7,49,17.76,N.V.,sparkling
+Millesim Extra Brut Champagne 2013,France,Champagne,Leclerc Briant,4.3,50,60.2,2013,sparkling
+Crmant de Limoux Ros Brut N.V.,France,Crmant de Limoux,La Louvire,4.2,51,20.19,N.V.,sparkling
+Extra Brut Champagne N.V.,France,Champagne,Louis Casters,4.1,51,42.9,N.V.,sparkling
+Les Hauts des Clos du Mont Brut Champagne N.V.,France,Champagne,Fallet Dart,4.2,51,66.0,N.V.,sparkling
+Brut Opere Ros N.V.,Italy,Veneto,Villa Sandi,3.6,52,14.5,N.V.,sparkling
+Brut Ros 2015,South Africa,Franschhoek,L'Ormarins,3.7,52,16.93,2015,sparkling
+Ros Brut N.V.,Italy,Piemonte,Tenuta San Pietro,3.7,52,20.43,N.V.,sparkling
+Cuve Marie Ambal Crmant de Bourgogne Ros N.V.,France,Crmant de Bourgogne,Veuve Ambal,3.8,52,23.95,N.V.,sparkling
+Conegliano Valdobbiadene Prosecco N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Le Manzane,3.8,53,7.99,N.V.,sparkling
+La Petite Bulle Brut Ros N.V.,France,Saumur,Bouvet-Ladubay,3.6,53,6.95,N.V.,sparkling
+Noces de Craie Champagne Grand Cru 'A' 2015,France,Champagne Grand Cru 'A',Marc Hbrart,4.4,53,65.0,2015,sparkling
+Marca Trevigiana Ros N.V.,Italy,Marca Trevigiana,Le Contesse,3.7,53,4.7,N.V.,sparkling
+Pinot Blanc Brut N.V.,Austria,Niedersterreich,Szigeti,3.6,54,14.16,N.V.,sparkling
+Ros Brut N.V.,Italy,Veneto,Sacchetto,3.5,54,10.54,N.V.,sparkling
+Brut Champagne N.V.,France,Champagne,Champagne du Rdempteur,3.8,54,31.9,N.V.,sparkling
+Muskat Ottonel Extra Dry N.V.,Austria,Burgenland,Szigeti,3.9,54,13.2,N.V.,sparkling
+Spumante Extra Brut 2015,Italy,Piemonte,Bruno Giacosa,3.6,55,27.06,2015,sparkling
+L'Ermitage Brut Ros 2006,United States,Anderson Valley,Roederer Estate,4.2,55,66.9,2006,sparkling
+'La Picia' Bardolino Chiaretto Spumante Extra Dry N.V.,Italy,Bardolino,Monte del Fr,3.6,55,10.5,N.V.,sparkling
+Brut Ros Champagne N.V.,France,Champagne,Comtesse Lafond,4.3,56,51.9,N.V.,sparkling
+Riesling Sekt Brut N.V.,Germany,Rheingau,Weingter Wegeler,3.7,56,14.2,N.V.,sparkling
+Ros Brut Champagne (Vintage) 2014,France,Champagne,Louis Roederer,4.1,56,48.64,2014,sparkling
+Riesling Brut N.V.,Germany,Nahe,Emrich-Schnleber,3.8,57,16.4,N.V.,sparkling
+Prosecco Superiore di Conegliano Valdobbiadene Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Canella,3.6,57,14.39,N.V.,sparkling
+Marsecco Red N.V.,Italy,delle Venezie,Castle of Dracula,3.6,57,8.86,N.V.,sparkling
+Cava Organic Brut Nature 2017,Spain,Cava,Vilarnau,3.8,57,14.53,2017,sparkling
+Rheingauer Rserve Riesling Brut 2014,Germany,Rheingau,Schloss Vaux,3.6,58,19.0,2014,sparkling
+Dibon Rosado Cava N.V.,Spain,Cava,Pinord,3.5,58,7.99,N.V.,sparkling
+Marc Mir Brut Nature N.V.,Spain,Catalunya,Rosell Mir,3.8,59,15.3,N.V.,sparkling
+Molera Valdobbiadene Prosecco Superiore Extra Dry 2017,Italy,Conegliano-Valdobbiadene Prosecco,Bisol,3.9,59,19.98,2017,sparkling
+Kaapse Vonkel Brut 2018,South Africa,Western Cape,Simonsig,3.9,59,12.18,2018,sparkling
+Mont Marvin Cuve Brut Champagne 2011,France,Champagne,Lacroix Triaulaire,4.0,59,42.0,2011,sparkling
+Quartet Brut Ros N.V.,United States,Anderson Valley,Roederer Estate,3.8,60,39.9,N.V.,sparkling
+36 Cuve Brut N.V.,Italy,Colli Trevigiani,Marsuret,3.5,60,9.8,N.V.,sparkling
+Parlein Brut N.V.,Italy,Trentino-Alto Adige,Arunda,3.6,61,22.9,N.V.,sparkling
+Crmant d'Alsace Blanc de Blancs Brut N.V.,France,Crmant d'Alsace,Dopff & Fils,4.2,62,14.21,N.V.,sparkling
+Reyes de Aragn El Monje Brut Nature N.V.,Spain,Cava,Bodegas Langa,3.7,62,11.8,N.V.,sparkling
+Rheingauer Rserve Riesling Brut 2015,Germany,Rheingau,Schloss Vaux,3.9,62,18.5,2015,sparkling
+Cuve 28+ Ros N.V.,Italy,Trento,Rotari,3.8,62,12.5,N.V.,sparkling
+Riesling Brut 2017,Germany,Rheingau,Kloster Eberbach,3.6,63,12.6,2017,sparkling
+Cuve Salome Brut N.V.,Germany,Pfalz,Friedrich Becker,3.8,64,19.49,N.V.,sparkling
+Ros Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Autrau de Champillon,3.6,64,28.5,N.V.,sparkling
+Blanc de Blancs Brut Champagne N.V.,France,Champagne,Jacquinot & Fils,3.7,64,46.95,N.V.,sparkling
+Lady Ros Champagne N.V.,France,Champagne,Duval-Leroy,3.6,64,51.69,N.V.,sparkling
+Riserva Extra Brut 2012,Italy,Trentino-Alto Adige,Arunda,4.1,64,24.15,2012,sparkling
+Ice Blanc de Blancs Demi-Sec N.V.,Italy,Vino d'Italia,Valdo,3.7,65,8.32,N.V.,sparkling
+Efecte Classic Peneds Brut Reserva 2017,Spain,Peneds,Albet i Noya,3.9,66,15.6,2017,sparkling
+Triumvirat Grande Cuve Brut 2009,Germany,Rheinhessen,Raumland,4.1,66,42.95,2009,sparkling
+'Giulio Ferrari' Riserva del Fondatore Ros 2006,Italy,Trentino,Ferrari,4.5,66,239.0,2006,sparkling
+N.P.U Brut Champagne (Nec Plus Ultra) 2004,France,Champagne,Bruno Paillard,4.4,67,169.0,2004,sparkling
+Teatro Alla Scala 2013,Italy,Franciacorta,Bellavista,4.0,67,47.53,2013,sparkling
+Il Vino dei Poeti Gold 2017,Italy,Prosecco,Bottega,3.8,67,19.4,2017,sparkling
+Secco Ros N.V.,Germany,German Wine,Kloster Eberbach,4.0,70,9.97,N.V.,sparkling
+Veneto Scinco Custoza Spumante Brut N.V.,Italy,Veneto,Monte del Fr,3.8,70,10.5,N.V.,sparkling
+Imperial Brut 2015,Spain,Cava,Gramona,4.0,70,19.99,2015,sparkling
+L'Authentique Brut Champagne 2009,France,Champagne,Tribaut Schloesser,4.2,70,78.95,2009,sparkling
+Bricco Quaglia Moscato d'Asti 2019,Italy,Moscato d'Asti,La Spinetta,4.1,71,15.69,2019,sparkling
+Familiengewchs Frizzante Valentin weiss N.V.,Germany,Franken,Winzer Sommerach,4.2,71,8.05,N.V.,sparkling
+Prosecco Treviso Frizzante N.V.,Italy,Prosecco di Treviso,Le Contesse,4.1,71,6.9,N.V.,sparkling
+Pinot Noir Ros Brut N.V.,Germany,Rheingau,Barth,3.6,72,16.59,N.V.,sparkling
+Ribula Brut N.V.,Italy,Friuli-Venezia Giulia,Conte d'Attimis Maniago,3.6,73,11.9,N.V.,sparkling
+Initiation N.V.,France,Champagne,Benot Dhu,4.2,74,54.0,N.V.,sparkling
+Cuve Rosa Extra Dry N.V.,Italy,Prosecco,Canevel,4.0,74,11.99,N.V.,sparkling
+Tre Comuni Valdobbiadene Prosecco Superiore Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Vallis Mareni,3.8,74,8.99,N.V.,sparkling
+Moscato d'Asti 2019,Italy,Moscato d'Asti,Prunotto,3.9,74,11.9,2019,sparkling
+Crmant de Loire Brut Ros N.V.,France,Crmant de Loire,Chapin & Landais,3.7,75,11.07,N.V.,sparkling
+Tradition Demi-Sec Champagne N.V.,France,Champagne,J.M. Gobillard & Fils,4.1,75,28.95,N.V.,sparkling
+Prosecco Treviso Brut N.V.,Italy,Prosecco di Treviso,Soligo,3.6,75,8.95,N.V.,sparkling
+Cuve Prestige Millsim Brut Champagne 2013,France,Champagne,J.M. Gobillard & Fils,4.2,77,33.92,2013,sparkling
+Serral del Vell Brut Nature 2009,Spain,Cava,Recaredo,4.3,77,39.5,2009,sparkling
+Cuve Patrimony Brut Champagne N.V.,France,Champagne,Michel Loriot,3.8,77,25.99,N.V.,sparkling
+Brut Metodo Classico Opere Trevigiane N.V.,Italy,Veneto,Villa Sandi,3.7,77,17.5,N.V.,sparkling
+Millesim Brut Champagne 2013,France,Champagne,Deutz,4.0,78,48.5,2013,sparkling
+Brut 2018,Italy,Conegliano-Valdobbiadene Prosecco,Bepin de Eto,3.8,78,11.21,2018,sparkling
+Brut N.V.,Italy,Piemonte,Tenuta San Pietro,3.7,78,18.81,N.V.,sparkling
+Cava Brut Imperial Reserva N.V.,Spain,Cava,Pupitre,3.6,78,9.5,N.V.,sparkling
+Franciacorta Ros 2015,Italy,Franciacorta,Bellavista,4.1,78,46.9,2015,sparkling
+Stefano Bottega Fragolino Rosso Frizzante N.V.,Italy,Friuli-Venezia Giulia,Bottega,4.1,78,6.5,N.V.,sparkling
+Brut Ros N.V.,Italy,Prosecco,Bosco del Merlo,3.8,79,10.45,N.V.,sparkling
+Millsime Brut Champagne 2009,France,Champagne,Tribaut Schloesser,4.2,79,39.95,2009,sparkling
+Conte Aimo Blanc de Noir 2009,Italy,Franciacorta,Montenisa,4.2,80,47.0,2009,sparkling
+Rserve Blanquette de Limoux Brut 2016,France,Blanquette de Limoux,Antech,3.7,80,14.62,2016,sparkling
+Pierre Brut N.V.,Germany,Pfalz,Dr. Von Bassermann-Jordan,3.8,81,21.9,N.V.,sparkling
+Grande Slection Brut Champagne N.V.,France,Champagne,Le Brun de Neuville,4.0,81,29.95,N.V.,sparkling
+Blanc de Blancs N.V.,Italy,Veneto,Ottella,4.0,82,19.5,N.V.,sparkling
+Extra Brut Champagne N.V.,France,Champagne,Comtesse Lafond,4.1,82,44.9,N.V.,sparkling
+Brut Nature Vintage 2015,Spain,Cava,Vilarnau,3.3,83,15.61,2015,sparkling
+Vieille Rserve Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Frdric Maltrez,4.1,83,45.0,N.V.,sparkling
+Ca del Vento Lambrusco Rosato N.V.,Italy,Reggiano,Venturini Baldini,3.5,83,11.9,N.V.,sparkling
+Riesling Brut 2017,Germany,Pfalz,Reichsrat von Buhl,3.9,84,14.75,2017,sparkling
+Rosato Secco N.V.,Italy,Emilia-Romagna,Duca del Valentino,3.5,85,7.75,N.V.,sparkling
+Rive di San Pietro di Barbozza Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco Superiore,Villa Sandi,4.0,86,17.69,N.V.,sparkling
+Millesim Exception Brut Champagne 2014,France,Champagne,Drappier,4.1,86,39.79,2014,sparkling
+Franciacorta Pas Oper 2012,Italy,Franciacorta,Bellavista,4.2,87,45.9,2012,sparkling
+Lugana Brut N.V.,Italy,Lugana,Roveglia,3.5,87,15.43,N.V.,sparkling
+Brut Ros 2015,Germany,Baden,Griesel & Compagnie,3.9,88,15.5,2015,sparkling
+Triumvirat Grande Cuve Brut 2010,Germany,Rheinhessen,Raumland,4.2,88,39.0,2010,sparkling
+Ribolla Gialla 2015,Italy,Colli Orientali del Friuli,Collavini,4.1,89,26.31,2015,sparkling
+Comtes de Champagne Ros 2007,France,Champagne,Taittinger,4.3,89,208.2,2007,sparkling
+Vrtice Gouveio Bruto 2007,Portugal,Douro,Caves Transmontanas,4.1,90,23.39,2007,sparkling
+Ros de Noir Cuve Brut N.V.,Italy,Emilia-Romagna,Cleto Chiarli,3.9,90,9.95,N.V.,sparkling
+Prosecco 2016,Italy,Prosecco,Zonin,3.4,90,8.24,2016,sparkling
+Pinot Brut N.V.,Germany,Pfalz,Menger-Krug,3.6,91,15.89,N.V.,sparkling
+Ballerine Brut toile Ros N.V.,France,Crmant de Limoux,Grard Bertrand,4.0,91,50.14,N.V.,sparkling
+Franciacorta Riserva Satn Palazzo Lana 2008,Italy,Franciacorta,Berlucchi,4.2,92,69.9,2008,sparkling
+Brut Blanc De Blancs 2015,South Africa,Robertson,Graham Beck,4.0,92,19.9,2015,sparkling
+Francesco Galliano Blanc de Blancs 2015,Italy,Piemonte,Borgo Maragliano,3.7,92,17.9,2015,sparkling
+Geheimrat J Riesling Klassische Flaschengrung Sekt Brut 2011,Germany,Rheingau,Weingter Wegeler,3.9,93,28.38,2011,sparkling
+Moncalvina Moscato d'Asti 'Canelli' 2018,Italy,Moscato d'Asti,Coppo,4.2,94,11.9,2018,sparkling
+Echter Secco N.V.,Germany,Franken,Juliusspital,4.0,95,9.62,N.V.,sparkling
+Brut Ros Champagne N.V.,France,Champagne,Gallimard Pre & Fils,4.0,95,28.95,N.V.,sparkling
+Franciacorta Satn Brut 2015,Italy,Franciacorta,Ricci Curbastro,3.9,95,24.37,2015,sparkling
+Solighello Frizzante N.V.,Italy,Veneto,Soligo,3.5,95,6.55,N.V.,sparkling
+Blanc de Noirs Brut 2015,Germany,Baden,Griesel & Compagnie,3.8,95,32.0,2015,sparkling
+Reiterer-Reiterer Ros Brut N.V.,Italy,Trentino-Alto Adige,Arunda,3.8,96,22.9,N.V.,sparkling
+Conde de Haro Brut 2016,Spain,Cava,Muga,3.8,96,16.47,2016,sparkling
+Blanc de Trilogia 2018,Spain,Valencia,Los Frailes,4.0,96,9.45,2018,sparkling
+Rserve Brut Champagne N.V.,France,Champagne,Morize Pre & Fils,3.8,97,30.3,N.V.,sparkling
+Muskateller Brut M N.V.,Austria,Sdsteiermark,Weingut Erich & Walter Polz,4.1,98,19.8,N.V.,sparkling
+Cascinetta Moscato d'Asti 2019,Italy,Moscato d'Asti,Vietti,4.2,98,13.5,2019,sparkling
+Crmant de Limoux Brut N.V.,France,Crmant de Limoux,La Louvire,3.9,98,18.79,N.V.,sparkling
+Amabile N.V.,Italy,Lambrusco Grasparossa di Castelvetro,Corte Manzini,3.9,99,10.6,N.V.,sparkling
+Esprit Brut Champagne N.V.,France,Champagne,Baron-Fuent,3.7,99,35.89,N.V.,sparkling
+Trauben Secco N.V.,Germany,Rheinhessen,Raumland,3.7,99,8.5,N.V.,sparkling
+Brut Ros d'Assemblage Champagne N.V.,France,Champagne,Gremillet,3.9,100,31.5,N.V.,sparkling
+Esprit Blanc de Blancs Champagne N.V.,France,Champagne,Baron-Fuent,3.8,101,35.89,N.V.,sparkling
+Perlae Naonis Millesimato Prosecco 2018,Italy,Prosecco,San Simone,3.9,101,13.21,2018,sparkling
+Extra Brut Champagne N.V.,France,Champagne,Irroy,3.7,101,30.75,N.V.,sparkling
+Radegonda Ros Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,San Venanzio Fortunato,3.8,102,15.0,N.V.,sparkling
+Garda Brut N.V.,Italy,Garda,Valdo,3.7,102,7.51,N.V.,sparkling
+Chardonnay Brut N.V.,Germany,Pfalz,Menger-Krug,3.8,103,18.29,N.V.,sparkling
+Prosecco Frizzante N.V.,Italy,Prosecco,Ca' di Alte,3.3,104,6.97,N.V.,sparkling
+Cava La Cuvee Gran Reserva 2015,Spain,Cava,Gramona,3.9,104,17.85,2015,sparkling
+Brut Almerita Regaleali 2015,Italy,Contea di Sclafani,Tasca d'Almerita,3.9,105,24.2,2015,sparkling
+Cava Brut Stars Touch Of Ros 2017,Spain,Cava,Castillo Perelada,3.8,105,12.99,2017,sparkling
+Vouvray Brut Extrme Rserve Prive N.V.,France,Vouvray,Marc Brdif,3.9,105,19.9,N.V.,sparkling
+Millesimato Extra Dry Prosecco 2018,Italy,Prosecco,Paladin,4.1,105,10.43,2018,sparkling
+Arte Tradicional Brut Espumante Ros 2017,Brazil,Vale dos Vinhedos,Casa Valduga,3.7,105,11.95,2017,sparkling
+Lambrusco dellEmilia Dolce N.V.,Italy,Emilia,Gualtieri,3.8,106,3.15,N.V.,sparkling
+Authentique Blanc de Blancs Brut Champagne N.V.,France,Champagne,Le Brun de Neuville,3.9,106,39.95,N.V.,sparkling
+Ros Brut Champagne (Extra Cuve de Rserve) 2012,France,Champagne,Pol Roger,4.3,107,66.29,2012,sparkling
+Lambrusco Salamino di Santa Croce Semisecco N.V.,Italy,Lambrusco Salamino di Santa Croce,Cavicchioli,3.6,107,7.4,N.V.,sparkling
+La Caliera Moscato d'Asti 2019,Italy,Moscato d'Asti,Borgo Maragliano,4.2,108,9.5,2019,sparkling
+Honor Venezia Millesimato Ros N.V.,Italy,Venezia,Astoria,3.9,108,8.9,N.V.,sparkling
+Blanc de Noirs Brut Pinot Meunier Champagne N.V.,France,Champagne,Henriet-Bazin,4.0,110,34.95,N.V.,sparkling
+Ros Champagne N.V.,France,Champagne,Louis Casters,3.8,110,22.95,N.V.,sparkling
+Blanc de Blancs Brut Champagne Premier Cru 2013,France,Champagne Premier Cru,Mandois,4.0,110,30.17,2013,sparkling
+Riesling Brut N.V.,Germany,Rheingau,Barth,3.7,110,15.66,N.V.,sparkling
+Graphic Ice Ros Champagne N.V.,France,Champagne,Nicolas Feuillatte,3.8,111,35.0,N.V.,sparkling
+Millsime Brut Collection Mmoire Champagne Grand Cru 'A' 2010,France,Champagne Grand Cru 'A',Lallier,4.3,112,65.69,2010,sparkling
+D Millsim Champagne 2008,France,Champagne,Veuve A. Devaux,4.0,112,57.51,2008,sparkling
+Il Ugo! N.V.,Italy,Veneto,Mionetto,3.5,113,7.09,N.V.,sparkling
+R.012 D Extra Dosage A Champagne N.V.,France,Champagne,Lallier,3.9,113,41.05,N.V.,sparkling
+Le Fronde Moscato d'Asti 2018,Italy,Moscato d'Asti,Fontanafredda,4.3,113,10.42,2018,sparkling
+Cuve Oenophile Non Dose Extra Brut Champagne Premier Cru 2012,France,Champagne Premier Cru,Pierre Gimonnet & Fils,4.1,114,42.0,2012,sparkling
+Etienne Crmant de Loire Brut N.V.,France,Crmant de Loire,Bouvet-Ladubay,3.6,114,10.2,N.V.,sparkling
+Codarossa Colli de Scandiano e Canosa N.V.,Italy,Colli de Scandiano e Canosa,Albinea Canali,3.6,114,5.99,N.V.,sparkling
+Flying Pig Weiss N.V.,Germany,Pfalz,Weingut Metzger,3.6,114,7.5,N.V.,sparkling
+Esprit de Schengen N.V.,Luxembourg,Crmant de Luxembourg,Domaine Henri Ruppert,3.7,114,13.9,N.V.,sparkling
+Vendemmia Ros 2014,Italy,Franciacorta,Bellavista,4.1,115,39.9,2014,sparkling
+Prosecco Millesimato 2018,Italy,Prosecco,Biscardo,3.8,116,9.5,2018,sparkling
+Cava Reyes de Aragn Gran Reserva Brut Nature N.V.,Spain,Cava,Bodegas Langa,3.7,116,14.99,N.V.,sparkling
+Crmant de Bourgogne Brut Ros N.V.,France,Bourgogne,Paul Delane,3.6,117,13.45,N.V.,sparkling
+Sir Winston Churchill Brut Champagne 2009,France,Champagne,Pol Roger,4.6,117,184.24,2009,sparkling
+Perl Bianco Riserva 2010,Italy,Trento,Ferrari,4.1,118,52.61,2010,sparkling
+R.012 N Brut Nature A Champagne N.V.,France,Champagne,Lallier,4.0,119,41.05,N.V.,sparkling
+Prosecco Frizzante N.V.,Italy,Prosecco,Fili,3.8,119,8.2,N.V.,sparkling
+Brut Ros 2014,Italy,Lambrusco di Sorbara,Cantina della Volta,3.9,119,28.7,2014,sparkling
+Ros 2015,United Kingdom,Kent,Gusbourne,3.9,119,62.29,2015,sparkling
+D. D. R. 2009,Italy,Modena,Cantina della Volta,4.2,120,35.37,2009,sparkling
+Tresor Brut 2012,France,Saumur,Bouvet-Ladubay,3.8,122,35.5,2012,sparkling
+002 Sparkling N.V.,France,Ctes de Gascogne,Uby,3.6,122,8.5,N.V.,sparkling
+Langenlois Blanc de Blancs Brut Nature 2013,Austria,Niedersterreich,Loimer,4.0,122,34.9,2013,sparkling
+Brut Vintage Champagne (Cuve Royale) 2004,France,Champagne,Joseph Perrier,3.9,122,60.08,2004,sparkling
+I Filari Franciacorta Brut N.V.,Italy,Franciacorta,Fratelli Muratori,3.5,124,17.32,N.V.,sparkling
+Cuve Brut Ros N.V.,Italy,Veneto,Casa Gheller,3.7,124,7.9,N.V.,sparkling
+Riesling Extra Brut N.V.,Germany,Rheingau,Barth,3.9,124,14.54,N.V.,sparkling
+Cuve Elisabeth Salmon Brut Ros Champagne 2007,France,Champagne,Billecart-Salmon,4.5,125,184.24,2007,sparkling
+Cava Enguera in a Bubble Brut Nature Organic N.V.,Spain,Cava,Bodegas Enguera,3.6,126,10.95,N.V.,sparkling
+Rosato Frizzante N.V.,Italy,Veneto,Pizzolato,3.5,126,10.25,N.V.,sparkling
+Cava Brut Nature Reserva N.V.,Spain,Cava,Mas Maci,3.6,126,8.95,N.V.,sparkling
+Valdobbiadene Prosecco Superiore Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Riva dei Frati,3.8,126,12.34,N.V.,sparkling
+Franciacorta Brut Ros 2015,Italy,Franciacorta,Ferghettina,3.9,127,40.1,2015,sparkling
+Comtesse Marie de France Brut Millsime Champagne Grand Cru 'Bouzy' 2006,France,Champagne Grand Cru 'Bouzy',Paul Bara,4.4,127,77.93,2006,sparkling
+Prosecco Millesimato 2017,Italy,Prosecco,Biscardo,3.9,127,19.95,2017,sparkling
+N.P.U Brut Champagne (Nec Plus Ultra) 2003,France,Champagne,Bruno Paillard,4.5,128,145.73,2003,sparkling
+Secco N.V.,Italy,Lambrusco Grasparossa di Castelvetro,Corte Manzini,3.5,129,9.5,N.V.,sparkling
+Cuve de Purcari Brut N.V.,Moldova,South Eastern,Chteau Purcari,4.2,130,19.9,N.V.,sparkling
+La Vi Prosecco N.V.,Italy,Prosecco,Canevel,3.6,130,13.29,N.V.,sparkling
+Brut Champagne 2010,France,Champagne,Dom Prignon,4.6,131,167.48,2010,sparkling
+Cuve Prive Crmant de Loire Brut N.V.,France,Crmant de Loire,Ackerman,3.9,131,11.4,N.V.,sparkling
+Brut Tradition Champagne N.V.,France,Champagne,Marcel Vzien,3.6,133,25.17,N.V.,sparkling
+Le Piere Garda Brut N.V.,Italy,Garda,Riondo,3.9,133,5.99,N.V.,sparkling
+Thodorine Ros Brut Champagne N.V.,France,Champagne,Michel Loriot,4.0,133,29.19,N.V.,sparkling
+L'Illustre Champagne N.V.,France,Champagne,Marcel Vzien,4.1,133,27.9,N.V.,sparkling
+Cecilia B. Vino Spumante Bianco N.V.,Italy,Veneto,Cecilia Beretta,3.8,133,9.99,N.V.,sparkling
+Asolo Prosecco Superiore Extra Dry N.V.,Italy,Prosecco,Montelliana,3.7,134,13.95,N.V.,sparkling
+Ros Brut N.V.,Italy,Veneto,Donelli,3.7,134,8.5,N.V.,sparkling
+Cuve Vaux Brut 2015,Germany,Rheingau,Schloss Vaux,3.8,135,11.62,2015,sparkling
+Cuvage de Cuvage N.V.,Italy,Piemonte,Cuvage,3.8,135,14.94,N.V.,sparkling
+Petit Albet Clssic Peneds Brut 2017,Spain,Peneds,Albet i Noya,3.7,135,11.95,2017,sparkling
+Instant Gourmand Brut Champagne N.V.,France,Champagne,Tribaut Schloesser,3.7,135,28.95,N.V.,sparkling
+Blanc de Noir 2018,Germany,Pfalz,Dr. Von Bassermann-Jordan,3.9,135,12.69,2018,sparkling
+Grande Sendre Champagne Brut 2009,France,Champagne,Drappier,4.3,136,61.55,2009,sparkling
+Il Mattaglio Blanc de Blancs N.V.,Italy,Emilia-Romagna,Cantina della Volta,3.9,136,29.89,N.V.,sparkling
+Cuve  (Alpha) Champagne 2006,France,Champagne,Jacquart,4.3,137,126.32,2006,sparkling
+Prosecco Millesimato Dry 2018,Italy,Prosecco,Corte Giara,3.6,137,11.6,2018,sparkling
+Leonia Brut Millesimato Pomino 2014,Italy,Pomino,Castello Pomino,3.8,137,31.38,2014,sparkling
+Prosecco Extra Dry N.V.,Italy,Prosecco,Serenissima,3.7,137,7.45,N.V.,sparkling
+Belle Epoque Ros Brut Champagne 2002,France,Champagne,Perrier-Jout,4.6,138,259.95,2002,sparkling
+Prosecco Extra Dry N.V.,Italy,Prosecco,Corte delle Rose,3.6,140,9.49,N.V.,sparkling
+Cuve dei Frati Brut 2019,Italy,Lombardia,C dei Frati,3.9,141,18.9,2019,sparkling
+Castell-Castell Fraenzi N.V.,Germany,Franken,Castell,3.8,141,7.55,N.V.,sparkling
+Noir Extra Brut Champagne N.V.,France,Champagne,Alexandre Bonnet,4.0,141,42.49,N.V.,sparkling
+Excellor Brut Ros N.V.,Italy,Trentino-Alto Adige,Arunda,3.7,141,24.5,N.V.,sparkling
+Brut Ros N.V.,Italy,Veneto,Canella,3.6,142,12.19,N.V.,sparkling
+Riesling Brut N.V.,Germany,Pfalz,Dr. Von Bassermann-Jordan,3.9,143,13.95,N.V.,sparkling
+Frulein Hu Perlwein Weiss N.V.,Germany,Rheinhessen,K.Wechsler,3.6,143,8.6,N.V.,sparkling
+Perl Nero Riserva 2010,Italy,Trento,Ferrari,4.1,143,69.95,2010,sparkling
+Crmant de Bourgogne Brut N.V.,France,Crmant de Bourgogne,Cave de Lugny,3.8,144,11.39,N.V.,sparkling
+Assemblage Brut Champagne 2009,France,Champagne,Bruno Paillard,4.4,144,75.0,2009,sparkling
+Blanc de Blancs Brut Champagne N.V.,France,Champagne,Robert Barbichon,3.9,144,41.25,N.V.,sparkling
+Essentiel Blanc de Blancs Extra Brut Champagne N.V.,France,Champagne,Piper-Heidsieck,4.0,144,59.66,N.V.,sparkling
+Millsim de Collection Vieilles Vignes de Chardonnay Brut Champagne N.V.,France,Champagne,Pierre Gimonnet & Fils,4.3,145,140.0,N.V.,sparkling
+Ros Prestige Brut N.V.,Germany,Rheinhessen,Raumland,4.1,145,21.85,N.V.,sparkling
+Vrtice Millesim 2010,Portugal,Douro,Caves Transmontanas,4.0,145,19.5,2010,sparkling
+Frizzante Ros Special Cuve N.V.,Italy,Veneto,La Jara,3.6,145,5.4,N.V.,sparkling
+Bianco Special Cuve Brut N.V.,Italy,Veneto,La Jara,3.5,145,9.2,N.V.,sparkling
+Clos Saint-Hilaire Brut Champagne 1999,France,Champagne,Billecart-Salmon,4.5,146,336.31,1999,sparkling
+Blanc de Blancs Brut N.V.,Italy,Piemonte,Cuvage,3.7,147,13.37,N.V.,sparkling
+Brut Ros N.V.,Italy,Puglia,Cantina Rosa del Golfo,3.8,147,23.54,N.V.,sparkling
+Sparkling Shiraz N.V.,Australia,Pyrenees,Blue Pyrenees Estate,3.5,148,26.41,N.V.,sparkling
+Live Brune S Prosecco Treviso Extra Dry N.V.,Italy,Prosecco di Treviso,Maschio,3.7,148,8.63,N.V.,sparkling
+Le Biographe Champagne N.V.,France,Champagne,Lacroix Triaulaire,3.9,150,29.9,N.V.,sparkling
+Brut Ros N.V.,Luxembourg,Luxembourg,Domaine Alice Hartmann,4.2,151,33.0,N.V.,sparkling
+Sptburgunder Brut Ros 2016,Germany,Pfalz,Reichsrat von Buhl,3.9,151,18.9,2016,sparkling
+Cuve de Purcari Ros Brut N.V.,Moldova,South Eastern,Chteau Purcari,4.2,152,19.9,N.V.,sparkling
+Cuve Extra Dry N.V.,Italy,Veneto,Le Contesse,3.6,152,7.95,N.V.,sparkling
+Demi-Sec Mosaque Champagne N.V.,France,Champagne,Jacquart,3.9,152,27.36,N.V.,sparkling
+Cuve de Purcari Extra Brut N.V.,Moldova,South Eastern,Chteau Purcari,4.2,153,19.9,N.V.,sparkling
+Kaapse Vonkel Brut 2017,South Africa,Western Cape,Simonsig,3.6,154,12.5,2017,sparkling
+Moncucco Moscato d'Asti 2018,Italy,Moscato d'Asti,Fontanafredda,4.3,154,14.6,2018,sparkling
+Sekt Brut N.V.,Germany,Baden,Geldermann,3.5,155,13.74,N.V.,sparkling
+Phineas N.V.,Italy,Trentino-Alto Adige,Arunda,4.2,155,65.0,N.V.,sparkling
+Cuve Marie Ambal Crmant de Bourgogne N.V.,France,Crmant de Bourgogne,Veuve Ambal,3.8,156,23.95,N.V.,sparkling
+Cuve No. 737 Dgorgement Tardif Extra Brut Champagne N.V.,France,Champagne,Jacquesson,4.3,156,89.95,N.V.,sparkling
+Prestige Collection Ros Extra Dry N.V.,Italy,Trentino,Mionetto,3.7,157,10.89,N.V.,sparkling
+Prosecco Conegliano Valdobbiadene Superiore Brut 2017,Italy,Conegliano-Valdobbiadene Prosecco,Cecilia Beretta,3.9,158,13.57,2017,sparkling
+Brut Ros N.V.,South Africa,Franschhoek,Colmant,3.8,158,23.5,N.V.,sparkling
+Tresor Brut 2016,France,Saumur,Bouvet-Ladubay,3.6,158,15.4,2016,sparkling
+Cur des Bar Champagne Blanc de Noirs Brut N.V.,France,Champagne,Veuve A. Devaux,3.9,159,36.9,N.V.,sparkling
+l'Incandescent Ros de Saigne Champagne Grand Cru 'Verzy' N.V.,France,Champagne Grand Cru 'Verzy',Mouzon Leroux,4.1,159,48.0,N.V.,sparkling
+Alta Langa Contessa Rosa Ros 2012,Italy,Alta Langa,Fontanafredda,3.8,159,29.05,2012,sparkling
+Rseo Spumante Ros Brut N.V.,Italy,Prosecco,Le Manzane,3.8,160,6.9,N.V.,sparkling
+Les Nogers Blanc de Blancs Extra Brut Champagne Premier Cru 2012,France,Champagne Premier Cru,Dhondt-Grellet,4.3,160,79.0,2012,sparkling
+Prosecco Brut N.V.,Italy,Prosecco,Canevel,3.6,160,13.99,N.V.,sparkling
+Prosecco di Treviso Extra Dry N.V.,Italy,Prosecco di Treviso,Ca' di Rajo,3.5,161,13.9,N.V.,sparkling
+Dibon Brut Ros Cava N.V.,Spain,Cava,Pinord,4.0,161,6.99,N.V.,sparkling
+Sior Gildo Moscato Dolce N.V.,Italy,Veneto,V8+,3.9,162,10.83,N.V.,sparkling
+Cava Nu Allong Brut N.V.,Spain,Cava,Masia Puigmolto,3.5,162,9.62,N.V.,sparkling
+'61 Franciacorta Nature 2012,Italy,Franciacorta,Berlucchi,4.0,163,29.9,2012,sparkling
+Bruto N.V.,Portugal,Bucelas,Paulo Laureano,3.8,164,24.0,N.V.,sparkling
+Extra Brut Champagne N.V.,France,Champagne,Barons de Rothschild (Lafite),4.0,165,49.84,N.V.,sparkling
+Prosecco Superiore di Conegliano Valdobbiadene Millesimato Brut 2018,Italy,Conegliano-Valdobbiadene Prosecco,Canella,3.9,165,13.97,2018,sparkling
+Crmant d'Alsace Ros N.V.,France,Crmant d'Alsace,Ren Mur,3.9,165,19.5,N.V.,sparkling
+Vintage Brut Champagne 2012,France,Champagne,Piper-Heidsieck,4.2,166,53.3,2012,sparkling
+Cava Stars Brut Nature 2016,Spain,Cava,Castillo Perelada,3.7,166,12.59,2016,sparkling
+Jaume Codornu Gran Reserva Cava 2013,Spain,Cava,Codornu,4.1,166,44.99,2013,sparkling
+Lugana Brut N.V.,Italy,Lugana,Pasini San Giovanni,3.5,169,19.03,N.V.,sparkling
+Bolla Ciao Alta Langa Brut 2013,Italy,Alta Langa,Fontanafredda,3.7,169,21.53,2013,sparkling
+Special Club Grands Terroirs de Chardonnay Champagne 2010,France,Champagne,Pierre Gimonnet & Fils,4.2,171,52.0,2010,sparkling
+Blanc de Meuniers Zro Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Leclerc Briant,4.2,172,146.65,N.V.,sparkling
+Grand Cordon Ros Brut Champagne N.V.,France,Champagne,G.H. Mumm,3.8,175,42.0,N.V.,sparkling
+Sior Lele Ros Brut N.V.,Italy,Veneto,V8+,3.5,177,10.83,N.V.,sparkling
+D'O Rosa Ros Spumante Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Fattoria Conca d'Oro,3.8,178,11.95,N.V.,sparkling
+Canterino Secco N.V.,Italy,Rubicone,Riunite,3.3,178,3.99,N.V.,sparkling
+Kaapse Vonkel Brut Ros 2018,South Africa,Stellenbosch,Simonsig,3.7,178,12.57,2018,sparkling
+Rare Brut Champagne (Millesim) 2006,France,Champagne,Piper-Heidsieck,4.4,178,144.05,2006,sparkling
+Moncucco Moscato d'Asti 2016,Italy,Moscato d'Asti,Fontanafredda,4.1,179,17.09,2016,sparkling
+N.P.U Brut Champagne (Nec Plus Ultra) 2002,France,Champagne,Bruno Paillard,4.6,181,174.97,2002,sparkling
+Chardonnay Brut N.V.,Luxembourg,Moselle,Bernard-Massard,3.6,182,16.21,N.V.,sparkling
+James Bond 007 Brut Champagne 2011,France,Champagne,Bollinger,4.5,182,167.66,2011,sparkling
+Crmant d'Alsace Cuve Prestige Brut N.V.,France,Crmant d'Alsace,Kuehn,3.6,182,13.95,N.V.,sparkling
+Blanc de Blancs Brut Champagne Grand Cru 2006,France,Champagne Grand Cru,Bonnaire,4.0,183,42.79,2006,sparkling
+Riesling Brut N.V.,Germany,Mosel,Peter Lauer,4.2,183,19.9,N.V.,sparkling
+Vieilles Vignes Brut Champagne Grand Cru 'A' N.V.,France,Champagne Grand Cru 'A',Andr Roger,4.0,183,44.77,N.V.,sparkling
+Prosecco Extra Dry N.V.,Italy,Prosecco,La Jara,3.7,183,12.3,N.V.,sparkling
+Sparkling Cuve N.V.,Australia,Riverina,Richland,3.3,184,11.9,N.V.,sparkling
+Col Dor 1404 Prosecco N.V.,Italy,Prosecco di Treviso,Casa Defr,3.9,185,6.9,N.V.,sparkling
+Brut Reserve 2014,United Kingdom,Kent,Gusbourne,4.1,185,53.51,2014,sparkling
+Vittorio Moretti 2006,Italy,Franciacorta,Bellavista,4.3,186,114.17,2006,sparkling
+Vittorio Moretti 2011,Italy,Franciacorta,Bellavista,4.3,187,89.0,2011,sparkling
+Cuve Brut N.V.,Italy,Veneto,Casa Gheller,3.5,187,7.9,N.V.,sparkling
+Edea Blanc de Blancs Brut N.V.,Italy,Franciacorta,Mirabella,3.6,188,19.9,N.V.,sparkling
+Pinot Noir Brut Rouge De Noirs N.V.,United States,Los Carneros,Schug,3.9,189,43.84,N.V.,sparkling
+Esprit Champagne Grand Cru N.V.,France,Champagne Grand Cru,Baron-Fuent,3.9,190,37.99,N.V.,sparkling
+Cava Tresor Reserva Brut 2014,Spain,Cava,Pere Ventura,3.5,190,12.95,2014,sparkling
+D Brut Ros Champagne N.V.,France,Champagne,Veuve A. Devaux,3.8,190,46.9,N.V.,sparkling
+Spcial Club Brut Champagne Premier Cru 2015,France,Champagne Premier Cru,Marc Hbrart,4.2,191,49.9,2015,sparkling
+Slection Champagne N.V.,France,Champagne,Louis Casters,3.7,193,22.95,N.V.,sparkling
+Cava Reserva Brut N.V.,Spain,Cava,Llopart,3.7,193,15.95,N.V.,sparkling
+La Grande Anne Brut Champagne 2012,France,Champagne,Bollinger,4.6,193,119.0,2012,sparkling
+Moxxe Pinot Grigio - Verduzzo 2018,Italy,Valpolicella,Masi,3.7,193,14.99,2018,sparkling
+Rserve Prive Blanc de Blancs Brut Champagne Grand Cru N.V.,France,Champagne Grand Cru,Bruno Paillard,4.2,194,65.0,N.V.,sparkling
+Extra Brut N.V.,Italy,Trentino-Alto Adige,Arunda,3.7,195,21.5,N.V.,sparkling
+Blanc de Blancs Extra Brut N.V.,Italy,Trentino-Alto Adige,Arunda,3.7,196,24.5,N.V.,sparkling
+Contessa Maggi Riserva 2007,Italy,Franciacorta,Montenisa,4.2,198,47.0,2007,sparkling
+Dolce Sandi Spumante N.V.,Italy,Veneto,Villa Sandi,3.6,198,9.5,N.V.,sparkling
+Prosecco Conegliano Valdobbiadene Superiore Brut 2018,Italy,Conegliano-Valdobbiadene Prosecco,Cecilia Beretta,3.8,198,13.01,2018,sparkling
+Special Club Brut Champagne Grand Cru 'Bouzy' 2008,France,Champagne Grand Cru 'Bouzy',Paul Bara,4.2,200,58.0,2008,sparkling
+This Cuve Prestige N.V.,Italy,Marca Trevigiana,Borgo Molino,3.7,200,10.8,N.V.,sparkling
+Blanc de Blancs Extra Brut Champagne N.V.,France,Champagne,Le Brun de Neuville,3.8,201,29.9,N.V.,sparkling
+Cava Stars Brut Nature 2015,Spain,Cava,Castillo Perelada,3.7,202,10.6,2015,sparkling
+Cuve Eugne Brut Champagne N.V.,France,Champagne,Louis Casters,4.0,202,31.9,N.V.,sparkling
+Cuve Josphine Brut Champagne 2008,France,Champagne,Joseph Perrier,4.4,204,88.9,2008,sparkling
+Cuve Prestige Millsim Brut Champagne 2012,France,Champagne,J.M. Gobillard & Fils,4.1,205,34.8,2012,sparkling
+'Giulio Ferrari' Riserva del Fondatore 2008,Italy,Trento,Ferrari,4.4,205,87.5,2008,sparkling
+Esprit de Victoria Brut Ros Champagne N.V.,France,Champagne,Joseph Perrier,3.8,206,44.9,N.V.,sparkling
+Cuve Annamaria Clementi (Extra Brut) 2010,Italy,Franciacorta,Ca' del Bosco,4.5,206,88.9,2010,sparkling
+Pinot Nero Piemonte Extra Brut Molinera N.V.,Italy,Piemonte,Vite Colte,3.5,207,11.89,N.V.,sparkling
+Brut Zero 2012,South Africa,Robertson,Graham Beck,3.8,209,25.5,2012,sparkling
+Extra Brut Champagne N.V.,France,Champagne,Gosset,3.8,209,29.5,N.V.,sparkling
+Crmant d'Alsace Brut Ros N.V.,France,Crmant d'Alsace,Boeckel,3.8,210,18.5,N.V.,sparkling
+Tendresse Brut Ros Champagne N.V.,France,Champagne,Veuve Doussot,4.1,211,44.5,N.V.,sparkling
+Blanc de Blancs Brut Champagne N.V.,France,Champagne,Gremillet,3.8,211,35.0,N.V.,sparkling
+Dosage Zro Champagne N.V.,France,Champagne,Bruno Paillard,4.2,212,55.0,N.V.,sparkling
+Cava Brut Reserva N.V.,Spain,Cava,Torre Oria,3.4,213,9.45,N.V.,sparkling
+Brut Mosaic Signature Aged 5 Years N.V.,France,Champagne,Jacquart,4.0,214,35.0,N.V.,sparkling
+Blanc de Blancs N.V.,Austria,Niedersterreich,Schloss Gobelsburg,3.9,215,24.32,N.V.,sparkling
+Ouvrage Grand Cru Champagne (Elev Sous Lige) N.V.,France,Champagne,Lallier,4.2,216,86.69,N.V.,sparkling
+Brut Champagne Premier Cru Slection Mvenpick N.V.,France,Champagne Premier Cru,Frdric Maltrez,3.7,218,28.5,N.V.,sparkling
+Pierre Jourdan Blanc de Blancs N.V.,South Africa,Franschhoek,Haute Cabrire,3.7,219,29.5,N.V.,sparkling
+Brut N.V.,Portugal,Bairrada,Vadio,3.6,220,16.9,N.V.,sparkling
+Testarossa N.V.,Italy,Lombardia,La Versa,3.7,220,15.7,N.V.,sparkling
+Cuve Marie-Luise Brut N.V.,Germany,Rheinhessen,Raumland,3.8,220,19.85,N.V.,sparkling
+Brut Ros Champagne N.V.,France,Champagne,Tribaut Schloesser,3.8,220,31.95,N.V.,sparkling
+Bruto Touriga Nacional N.V.,Portugal,Beiras,Luis Pato,3.6,220,12.0,N.V.,sparkling
+Sior Sandro Prosecco N.V.,Italy,Prosecco,V8+,3.7,220,9.9,N.V.,sparkling
+Spumante 2012,Italy,Lambrusco di Sorbara,Cantina della Volta,3.8,221,28.7,2012,sparkling
+Leonia Brut Millesimato Pomino 2015,Italy,Pomino,Castello Pomino,3.9,221,30.19,2015,sparkling
+Prosecco Brut N.V.,Italy,Prosecco,La Jara,3.6,221,12.3,N.V.,sparkling
+Dom Ruinart Ros Brut Champagne 2004,France,Champagne,Ruinart,4.6,221,259.0,2004,sparkling
+Friss Ros Frizzante N.V.,Spain,La Mancha,Flix Sols,3.8,223,3.9,N.V.,sparkling
+Extra Brut N.V.,Austria,Niedersterreich,Weingut Brndlmayer,3.9,223,24.22,N.V.,sparkling
+Lightly Sparkling - Sauvignon Blanc 2018,New Zealand,Marlborough,Villa Maria,4.2,223,11.08,2018,sparkling
+Blanc de Blancs Extra Brut Champagne Grand Cru N.V.,France,Champagne Grand Cru,Bonnaire,3.9,225,35.9,N.V.,sparkling
+Prosecco Frizzante N.V.,Italy,Veneto,Villa Sandi,3.7,226,7.2,N.V.,sparkling
+Mthode Cap Classique Brut N.V.,South Africa,Coastal Region,MAN,3.5,227,18.78,N.V.,sparkling
+Blanc de Blancs 2014,United Kingdom,Kent,Gusbourne,4.1,227,57.51,2014,sparkling
+Cuve Brut Pinot Ros N.V.,Italy,Veneto,Le Contesse,3.6,229,7.77,N.V.,sparkling
+Giustino B. Valdobbiadene Prosecco Superiore 2018,Italy,Conegliano-Valdobbiadene Prosecco,Ruggeri,4.1,229,19.99,2018,sparkling
+Cava Reserva Brut Milesim 2015,Spain,Cava,Juv & Camps,4.0,232,24.5,2015,sparkling
+Moscato d'Asti 2016,Italy,Moscato d'Asti,Ruffino,4.2,232,13.15,2016,sparkling
+Cava Original V Brut Nature N.V.,Spain,Cava,Vendrell Olivella,3.8,232,14.9,N.V.,sparkling
+Blanc de Blancs Brut Champagne Grand Cru 'Oger' N.V.,France,Champagne Grand Cru 'Oger',Pierre Gimonnet & Fils,4.1,233,42.0,N.V.,sparkling
+Brut Ros Champagne N.V.,France,Champagne,J.M. Gobillard & Fils,3.8,234,30.95,N.V.,sparkling
+N.P.U Brut Champagne (Nec Plus Ultra) 1999,France,Champagne,Bruno Paillard,4.5,234,184.23,1999,sparkling
+Riesling Sekt Brut N.V.,Germany,Rheingau,Bibo Runge,3.9,235,21.0,N.V.,sparkling
+Treviso Prosecco Extra Dry N.V.,Italy,Prosecco di Treviso,Borgo Molino,3.6,236,11.9,N.V.,sparkling
+Esprit de Victoria Blanc de Blancs Brut Champagne N.V.,France,Champagne,Joseph Perrier,4.0,237,55.85,N.V.,sparkling
+Cuve Prestige Crmant de Bourgogne Brut N.V.,France,Crmant de Bourgogne,Domaine de La Grande Cte,3.9,238,14.95,N.V.,sparkling
+Ros Extra Dry N.V.,Italy,Veneto,Maschio dei Cavalieri,3.6,242,9.29,N.V.,sparkling
+clats de Meulire Extra-Brut Champagne N.V.,France,Champagne,Jeaunaux-Robin,4.0,242,38.5,N.V.,sparkling
+Brut Ros N.V.,Italy,Lombardia,Aldo Rainoldi,3.7,244,22.9,N.V.,sparkling
+Les Fumes Blanches Sauvignon Blanc Sparkling (Ptillant) 2018,France,Vin de France,Franois Lurton,3.7,246,7.45,2018,sparkling
+Franciacorta Satn 2014,Italy,Franciacorta,Bellavista,4.1,246,57.28,2014,sparkling
+Ros Sekt Trocken N.V.,Germany,Rheingau,Frst von Metternich,3.5,248,11.49,N.V.,sparkling
+Brut Nature Champagne (Philippe Starck) 2012,France,Champagne,Louis Roederer,4.1,249,79.9,2012,sparkling
+Jahrgangs Sekt Extra Dry N.V.,Germany,Rheingau,Mumm & Co,3.2,249,7.79,N.V.,sparkling
+Welschriesling Brut N.V.,Austria,Niedersterreich,Szigeti,3.5,251,13.2,N.V.,sparkling
+Crmant de Luxembourg Brut N.V.,Luxembourg,Crmant de Luxembourg,Domaine Clos des Rochers,3.9,251,28.86,N.V.,sparkling
+Cava Reserva Brut Cinta Purpura 2016,Spain,Cava,Juv & Camps,3.8,251,12.95,2016,sparkling
+Brut Champagne N.V.,France,Champagne,Comtesse Lafond,4.0,252,39.9,N.V.,sparkling
+Extra Dry N.V.,Italy,Salento,Liboll,3.7,253,7.45,N.V.,sparkling
+Cuve Rose Brut Champagne N.V.,France,Champagne,Veuve A. Devaux,3.8,253,36.9,N.V.,sparkling
+Blanc de Blancs Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Henriet-Bazin,3.9,254,34.95,N.V.,sparkling
+Rosato Spumante Brut N.V.,Italy,Veneto,Zonin,3.6,256,8.53,N.V.,sparkling
+Tradition Brut Champagne Grand Cru 'Le Mesnil-sur-Oger' N.V.,France,Champagne Grand Cru 'Le Mesnil-sur-Oger',Jean Pernet,3.7,257,29.9,N.V.,sparkling
+Reynal Vinos de Aguja Blanco N.V.,Spain,Peneds,Pinord,3.5,257,4.99,N.V.,sparkling
+Collevento 921 Prosecco N.V.,Italy,Prosecco,Antonutti,3.8,258,8.39,N.V.,sparkling
+Crmant d'Alsace Ros Brut N.V.,France,Crmant d'Alsace,Bestheim,3.8,259,11.5,N.V.,sparkling
+Crmant d'Alsace Blanc de Noirs N.V.,France,Crmant d'Alsace,Dopff au Moulin,3.8,260,16.95,N.V.,sparkling
+Grande Rserve Brut Champagne Grand Cru N.V.,France,Champagne Grand Cru,Andr Roger,4.0,263,35.81,N.V.,sparkling
+Asolo Prosecco Superiore N.V.,Italy,Asolo Prosecco,Villa Sandi,3.6,263,8.9,N.V.,sparkling
+Conde de Haro Brut Ros N.V.,Spain,Cava,Muga,3.7,264,16.47,N.V.,sparkling
+Franciacorta Saten Brut 2015,Italy,Franciacorta,Ferghettina,4.0,265,38.7,2015,sparkling
+Bianco Secco N.V.,Italy,Emilia-Romagna,Duca del Valentino,3.5,270,7.66,N.V.,sparkling
+Femme de Champagne 1996,France,Champagne,Duval-Leroy,4.5,271,239.7,1996,sparkling
+Rserve Brut Champagne Grand Cru N.V.,France,Champagne Grand Cru,Autrau de Champillon,4.0,272,29.5,N.V.,sparkling
+Cava Brut N.V.,Spain,Cava,Mas Maci,3.5,273,8.45,N.V.,sparkling
+Lapiaz Crmant du Jura Brut N.V.,France,Crmant du Jura,Tissot-Maire,3.5,273,12.9,N.V.,sparkling
+Col de Mez Valdobbiadene Prosecco N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Soligo,3.6,274,8.5,N.V.,sparkling
+Accussi Extra Dry N.V.,Italy,Sicilia,Feudo Arancio,3.6,276,10.9,N.V.,sparkling
+Cuve Brut Ros N.V.,Italy,Veneto,Carpen Malvolti,3.8,278,11.9,N.V.,sparkling
+Grande Rserve Champagne N.V.,France,Champagne,Louis Casters,3.8,279,22.95,N.V.,sparkling
+Crmant de Limoux Brut N.V.,France,Crmant de Limoux,Chteau Martinolles,3.7,279,11.9,N.V.,sparkling
+Soave Brut N.V.,Italy,Soave,Riondo,3.6,281,6.75,N.V.,sparkling
+Cristal Brut Champagne (Millsim) 2012,France,Champagne,Louis Roederer,4.5,282,205.84,2012,sparkling
+61 Franciacorta Brut 1961,Italy,Lombardia,Berlucchi,3.9,282,17.95,1961,sparkling
+Demi-Sec Champagne (Cuve Royale) N.V.,France,Champagne,Joseph Perrier,3.9,283,36.5,N.V.,sparkling
+Terre de Vertus Champagne Premier Cru 2013,France,Champagne Premier Cru,Larmandier-Bernier,4.2,286,58.39,2013,sparkling
+Crmant de Bourgogne Ros Brut N.V.,France,Bourgogne,Caves de Marsigny,3.6,287,14.99,N.V.,sparkling
+Dom Ruinart Blanc de Blancs Brut Champagne 2007,France,Champagne,Ruinart,4.5,287,169.0,2007,sparkling
+Blanc de Blancs Millsim Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Doyard Mah,4.1,287,36.5,N.V.,sparkling
+Nocturne City Lights Sec Champagne N.V.,France,Champagne,Taittinger,4.0,288,49.3,N.V.,sparkling
+Brut Extrem Champagne N.V.,France,Champagne,Nicolas Feuillatte,3.6,289,35.0,N.V.,sparkling
+Soldati Metodo Classico Brut N.V.,Italy,Gavi,La Scolca,3.8,290,28.19,N.V.,sparkling
+Millsime Brut Collection Mmoire Champagne Grand Cru 'A' 2008,France,Champagne Grand Cru 'A',Lallier,4.3,290,69.36,2008,sparkling
+Rserve 4 Cpages Brut Champagne N.V.,France,Champagne,Robert Barbichon,3.8,291,36.95,N.V.,sparkling
+Secret Sparkling Ros N.V.,South Africa,Western Cape,Spier,3.5,293,8.32,N.V.,sparkling
+Vendemmia Brut 2012,Italy,Franciacorta,Bellavista,4.1,293,39.0,2012,sparkling
+Prosecco Extra Dry N.V.,Italy,Prosecco,Forchir,3.5,294,10.11,N.V.,sparkling
+Prosecco N.V.,Italy,Prosecco,Ca' di Alte,3.7,294,9.57,N.V.,sparkling
+Amatista Moscato Rosado N.V.,Spain,Valencia,Reymos,3.8,296,4.89,N.V.,sparkling
+Primabolla Lambrusco N.V.,Italy,Reggiano,Cantina Puianello,3.5,297,7.06,N.V.,sparkling
+Brut Champagne (Cuve Royale) 2008,France,Champagne,Joseph Perrier,4.0,297,46.5,2008,sparkling
+Saphir Saumur Brut Vintage 2017,France,Saumur,Bouvet-Ladubay,3.5,298,11.65,2017,sparkling
+Triumvirat Grande Cuve Brut N.V.,Germany,Rheinhessen,Raumland,4.2,299,45.49,N.V.,sparkling
+Ros Brut Champagne 2012,France,Champagne,Deutz,4.1,300,55.89,2012,sparkling
+Cuve Spciale Demi Sec N.V.,France,Loire Valley,Marquis de la Tour,3.8,301,8.25,N.V.,sparkling
+Brut Ros N.V.,Italy,Trentino-Alto Adige,Arunda,3.8,304,22.5,N.V.,sparkling
+Riesling Sekt Extra Dry N.V.,Germany,Mosel,Dr. Loosen,3.7,306,17.74,N.V.,sparkling
+Millesimato Ros Spumante N.V.,Italy,Veneto,Canella,3.7,306,12.95,N.V.,sparkling
+Riesling Brut N.V.,Germany,Rheinhessen,Raumland,3.7,307,17.9,N.V.,sparkling
+Haus Klosterberg Sekt Brut Cuve N.V.,Germany,Mosel,Markus Molitor,3.7,310,9.01,N.V.,sparkling
+Prosecco Ice Demi-Sec N.V.,Italy,Prosecco,Zonin,3.5,310,8.99,N.V.,sparkling
+Brut Ros Champagne Grand Cru 'Chouilly' N.V.,France,Champagne Grand Cru 'Chouilly',Legras & Haas,3.8,312,40.8,N.V.,sparkling
+Moscato d'Asti 2019,Italy,Moscato d'Asti,G.D. Vajra,3.9,312,15.2,2019,sparkling
+Blanc de Blancs Brut Champagne 2007,France,Champagne,Deutz,4.2,313,74.9,2007,sparkling
+Prosecco Treviso Frizzante N.V.,Italy,Prosecco di Treviso,Val d'Oca,3.6,315,6.9,N.V.,sparkling
+Franciacorta Brut N.V.,Italy,Franciacorta,Clarabella,3.5,316,19.8,N.V.,sparkling
+ORO Prosecco Treviso Brut N.V.,Italy,Prosecco di Treviso,Val d'Oca,3.5,319,10.99,N.V.,sparkling
+Cuve Katharina Brut N.V.,Germany,Rheinhessen,Raumland,3.8,320,23.19,N.V.,sparkling
+Cabochon Brut 2008,Italy,Franciacorta,Monte Rossa,4.2,322,99.0,2008,sparkling
+Assemblage Brut Champagne 2008,France,Champagne,Bruno Paillard,4.3,331,68.19,2008,sparkling
+Brut Premier Champagne 2012,France,Champagne Premier Cru,Louis Roederer,4.1,333,62.9,2012,sparkling
+L'Ermitage Brut 2011,United States,Anderson Valley,Roederer Estate,4.2,334,59.9,2011,sparkling
+Ros Spumante Extra Dry N.V.,Italy,Veneto,Collalto,3.8,334,10.95,N.V.,sparkling
+Cuve de La Rue des Noyers Champagne N.V.,France,Champagne,Benot Dhu,4.2,335,74.01,N.V.,sparkling
+Carte d'Or Brut Champagne N.V.,France,Champagne,Irroy,3.6,336,36.59,N.V.,sparkling
+Cava Carta Rotia Premium Semi Seco N.V.,Spain,Cava,Freixenet,3.5,336,8.49,N.V.,sparkling
+Cuve de Reserve Blanc de Noirs Champagne Brut N.V.,France,Champagne,Gallimard Pre & Fils,4.1,337,24.95,N.V.,sparkling
+Code Rouge Brut Eternel Blancs de Blancs N.V.,France,Crmant de Limoux,Grard Bertrand,3.6,339,31.77,N.V.,sparkling
+Flaschengrung Grand Ros Sec N.V.,Germany,Baden,Geldermann,3.9,340,13.49,N.V.,sparkling
+RSV Blush Espumante 2015,Brazil,Vale dos Vinhedos,Casa Valduga,3.9,340,14.95,2015,sparkling
+Blanc de Blancs Champagne (Extra Cuve de Rserve) 2012,France,Champagne,Pol Roger,4.2,343,77.79,2012,sparkling
+Franciacorta Satn 2011,Italy,Franciacorta,Bellavista,4.2,344,48.4,2011,sparkling
+Cava Reyes de Aragn Reserva Brut N.V.,Spain,Cava,Bodegas Langa,3.6,349,9.95,N.V.,sparkling
+Blanc de Noirs Brut Champagne N.V.,France,Champagne,Robert Barbichon,3.9,349,35.6,N.V.,sparkling
+Brut Blanc de Blancs N.V.,France,Beaune,Veuve du Vernay,3.8,350,8.25,N.V.,sparkling
+Blanc de Noirs Brut Champagne N.V.,France,Champagne,Gremillet,3.8,351,35.95,N.V.,sparkling
+Signature Chardonnay - Pinot Noir 2019,South Africa,Stellenbosch,Spier,3.6,352,6.5,2019,sparkling
+Cuve Nicolas Franois Billecart Brut Champagne 2006,France,Champagne,Billecart-Salmon,4.5,355,144.27,2006,sparkling
+Rserve Brut Champagne 2006,France,Champagne,Pol Roger,4.2,358,69.0,2006,sparkling
+Brut Champagne Grand Cru 'A' N.V.,France,Champagne Grand Cru 'A',Lallier,4.2,358,51.57,N.V.,sparkling
+Brut Champagne Grand Cru 'A' N.V.,France,Champagne Grand Cru 'A',Pierre Leboeuf,3.9,359,33.95,N.V.,sparkling
+Cuve Esplendor Vinyes Propies 2013,Spain,Peneds,Vardon Kennett,3.9,360,38.79,2013,sparkling
+Fave Ros Brut N.V.,Italy,Veneto,Nino Franco,3.6,361,12.5,N.V.,sparkling
+Sior Carlo Millesimato Prosecco Brut N.V.,Italy,Prosecco,V8+,3.5,361,9.9,N.V.,sparkling
+Riesling Sekt Brut N.V.,Germany,Mosel,Villa Huesgen,3.9,361,13.76,N.V.,sparkling
+Rserve Brut Champagne N.V.,France,Champagne,Leclerc Briant,3.9,362,47.95,N.V.,sparkling
+Franciacorta Gran Cuve Satn N.V.,Italy,Franciacorta,Bellavista,4.2,363,54.62,N.V.,sparkling
+Amour de Deutz Millsime Brut Champagne 2007,France,Champagne,Deutz,4.5,363,139.0,2007,sparkling
+Tastevinage Crmant de Bourgogne Brut N.V.,France,Crmant de Bourgogne,Chevalier,3.7,365,14.9,N.V.,sparkling
+Franciacorta Gran Cuve Brut Ros N.V.,Italy,Franciacorta,Bellavista,4.1,366,44.9,N.V.,sparkling
+Brut Champagne N.V.,France,Champagne,Marcel Pierre,3.8,366,27.7,N.V.,sparkling
+Aimery Crmant de Limoux Grande Cuve 1531 Ros N.V.,France,Crmant de Limoux,Sieur d'Arques,3.8,368,11.9,N.V.,sparkling
+Private Cuve Brut Champagne N.V.,France,Champagne,Jacquinot & Fils,4.0,368,44.5,N.V.,sparkling
+Cava Ros Brut N.V.,Spain,Cava,Llopart,3.8,370,18.95,N.V.,sparkling
+Concerto Lambrusco Reggiano 2018,Italy,Reggiano,Medici Ermete,3.8,371,8.28,2018,sparkling
+Ice Imprial (Demi-Sec) Ros Champagne N.V.,France,Champagne,Mot & Chandon,4.1,372,67.59,N.V.,sparkling
+Perlwein Trocken Rosa N.V.,Germany,Rheinhessen,Fritz Muller,4.1,373,7.5,N.V.,sparkling
+Tinto Bruto N.V.,Portugal,Bairrada,Quinta do Ortigao,3.6,374,15.0,N.V.,sparkling
+Brut Ros N.V.,Italy,Nebbiolo d'Alba,Cuvage,3.7,379,18.06,N.V.,sparkling
+Bollamatta Rosato N.V.,Italy,Toscana,Bibi Graetz,3.8,381,18.9,N.V.,sparkling
+Cava Brut Stars Touch Of Ros N.V.,Spain,Cava,Castillo Perelada,3.8,382,12.98,N.V.,sparkling
+Lugana Metodo Classico Brut N.V.,Italy,Lugana,Zenato,3.8,383,15.9,N.V.,sparkling
+Ros Brut Champagne (Extra Cuve de Rserve) 2009,France,Champagne,Pol Roger,4.1,383,68.0,2009,sparkling
+Prosecco N.V.,Italy,Prosecco,Valdo,3.5,384,8.36,N.V.,sparkling
+i Quercioli Reggiano Lambrusco Rosato Dolce N.V.,Italy,Reggiano,Medici Ermete,3.7,384,5.9,N.V.,sparkling
+Ros Dolors Brut Champagne N.V.,France,Champagne,Baron-Fuent,3.9,388,28.99,N.V.,sparkling
+Red Top Sec Champagne N.V.,France,Champagne,Heidsieck & Co. Monopole,3.7,388,29.79,N.V.,sparkling
+Blanc de Noirs Extra Brut Champagne N.V.,France,Champagne,Maurice Grumier,3.9,389,29.9,N.V.,sparkling
+Floral Edition Ros Extra Dry N.V.,Italy,Veneto,Valdo,3.6,389,7.99,N.V.,sparkling
+Weisser Mulatschak 2019,Austria,Burgenland,Meinklang,4.3,391,11.5,2019,sparkling
+Grner Veltliner Brut N.V.,Austria,Wien,Schlumberger,3.8,392,15.59,N.V.,sparkling
+Blanc de Blancs Brut Champagne N.V.,France,Champagne,Le Brun de Neuville,3.9,396,29.95,N.V.,sparkling
+Ultra D Champagne N.V.,France,Champagne,Veuve A. Devaux,3.9,397,39.9,N.V.,sparkling
+Vixen N.V.,Australia,McLaren Vale,Fox Creek,3.9,400,17.95,N.V.,sparkling
+Kaapse Vonkel Brut Ros 2017,South Africa,Stellenbosch,Simonsig,3.8,405,14.08,2017,sparkling
+Prosecco di Treviso Brut N.V.,Italy,Prosecco di Treviso,De Faveri,3.6,407,9.5,N.V.,sparkling
+Tresor Brut Ros N.V.,France,Saumur,Bouvet-Ladubay,3.9,410,15.9,N.V.,sparkling
+Cava Brut Rosado N.V.,Spain,Cava,Mont Maral,3.5,412,7.9,N.V.,sparkling
+Cuve William Deutz Millesim Brut Champagne 2006,France,Champagne,Deutz,4.4,412,125.0,2006,sparkling
+Prosecco Brut N.V.,Italy,Prosecco,Carpen Malvolti,3.6,414,11.9,N.V.,sparkling
+Chardonnay Brut N.V.,Italy,Piemonte,Borgo Maragliano,3.7,414,11.99,N.V.,sparkling
+Clement de Lure Methode Cap Classique Brut N.V.,South Africa,Stellenbosch,Stellenrust,3.8,415,14.99,N.V.,sparkling
+Brut Ros Champagne (Cuve Royale) N.V.,France,Champagne,Joseph Perrier,3.8,419,45.6,N.V.,sparkling
+P.R. Ros N.V.,Italy,Franciacorta,Monte Rossa,3.8,420,59.0,N.V.,sparkling
+Cava Stars Brut Reserva N.V.,Spain,Cava,Castillo Perelada,3.5,420,12.99,N.V.,sparkling
+61 Franciacorta Satn 1961,Italy,Franciacorta,Berlucchi,3.9,421,19.9,1961,sparkling
+La Gatta Moscato d'Asti N.V.,Italy,Moscato d'Asti,Vite Colte,3.8,421,11.95,N.V.,sparkling
+Fashion Victim Moscato Ros N.V.,Italy,Veneto,Astoria,3.8,424,8.9,N.V.,sparkling
+Royal Crmant de Loire Brut N.V.,France,Crmant de Loire,Ackerman,4.0,427,15.9,N.V.,sparkling
+Sauvignon Blanc Sparkling N.V.,Slovenia,Podravje,Puklavec Family Wines,3.7,429,14.08,N.V.,sparkling
+Crmant de Bourgogne Brut Ros N.V.,France,Crmant de Bourgogne,Cave de Lugny,4.0,433,11.52,N.V.,sparkling
+Vecchie Viti N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Ruggeri,3.9,436,18.49,N.V.,sparkling
+Prosecco Brut N.V.,Italy,Prosecco,Cielo e Terra,3.6,436,6.9,N.V.,sparkling
+Franciacorta Gran Cuve Pas Oper N.V.,Italy,Franciacorta,Bellavista,4.1,438,34.9,N.V.,sparkling
+Chardonnay Piemonte Brut Vallerenza N.V.,Italy,Piemonte,Vite Colte,3.5,452,9.5,N.V.,sparkling
+Crede Valdobbiadene Prosecco Superiore Brut 2017,Italy,Conegliano-Valdobbiadene Prosecco,Bisol,3.8,455,19.98,2017,sparkling
+Lugana Metodo Classico Brut N.V.,Italy,Lugana,C Maiol,3.6,455,22.09,N.V.,sparkling
+Prosecco Treviso Extra Dry N.V.,Italy,Prosecco di Treviso,Ca'Val,3.5,455,13.95,N.V.,sparkling
+Brut Reserve N.V.,Austria,Niedersterreich,Schloss Gobelsburg,3.8,457,19.86,N.V.,sparkling
+Cuve Suprieure Champagne N.V.,France,Champagne,Louis Casters,3.8,458,21.95,N.V.,sparkling
+Rserve Premier Cru Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Frdric Maltrez,3.8,465,32.8,N.V.,sparkling
+Crmant de Loire Brut Ros N.V.,France,Crmant de Loire,Bouvet-Ladubay,3.7,466,11.5,N.V.,sparkling
+Valdobbiadene Prosecco Superiore Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,San Venanzio Fortunato,3.8,468,11.9,N.V.,sparkling
+Blanc de Blancs Brut Champagne Grand Cru N.V.,France,Champagne Grand Cru,Autrau de Champillon,4.0,468,29.9,N.V.,sparkling
+Millesim Brut Champagne 2006,France,Champagne,Charles Heidsieck,4.3,469,85.95,2006,sparkling
+Brut Apanage Ros Champagne N.V.,France,Champagne,Pommery,4.1,469,65.49,N.V.,sparkling
+Brut N.V.,Austria,Niedersterreich,Weingut Brndlmayer,4.0,474,24.5,N.V.,sparkling
+Ros Brut N.V.,Austria,Wien,Schlumberger,3.6,477,15.59,N.V.,sparkling
+Riesling Brut N.V.,Germany,Rheingau,Kloster Eberbach,3.6,477,13.39,N.V.,sparkling
+Pruno Nero Lambrusco N.V.,Italy,Emilia-Romagna,Cleto Chiarli,3.7,482,12.79,N.V.,sparkling
+Blanc de Blancs Brut Champagne (Vintage) 2011,France,Champagne,Louis Roederer,4.2,482,67.26,2011,sparkling
+Prosecco Treviso N.V.,Italy,Prosecco di Treviso,Casa Gheller,3.6,482,9.4,N.V.,sparkling
+Tradition Brut Champagne N.V.,France,Champagne,Baron-Fuent,3.6,483,27.98,N.V.,sparkling
+Perl 2014,Italy,Trento,Ferrari,3.9,483,25.89,2014,sparkling
+Cuve de l'Ecusson Pinot Noir Brut Ros N.V.,Luxembourg,Moselle,Bernard-Massard,3.8,483,17.1,N.V.,sparkling
+Brut Ros N.V.,Italy,Franciacorta,Montenisa,3.7,485,35.41,N.V.,sparkling
+Maximum Brut Blanc de Blancs N.V.,Italy,Trento,Ferrari,3.7,489,26.09,N.V.,sparkling
+Marai de Marai Brut N.V.,Italy,Veneto,Foss Marai,3.7,490,11.17,N.V.,sparkling
+Valdobbiadene Brut Marca Oro Ros N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Valdo,3.6,494,7.13,N.V.,sparkling
+Col de Mez Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Soligo,3.7,495,9.1,N.V.,sparkling
+Chardonnay Sekt Trocken N.V.,Germany,Rheingau,Frst von Metternich,3.5,495,11.49,N.V.,sparkling
+Premium Reserve Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Charles Mignon,3.8,496,34.73,N.V.,sparkling
+Prosecco N.V.,Italy,Prosecco,Reguta,3.7,500,5.5,N.V.,sparkling
+Flav Brut Rosato N.V.,Italy,Veneto,Bepin de Eto,3.9,501,9.95,N.V.,sparkling
+Alexandra Champagne Ros (Grande Cuve) 2004,France,Champagne,Laurent-Perrier,4.6,503,349.0,2004,sparkling
+Brut Millesim Champagne N.V.,France,Champagne,Piper-Heidsieck,4.0,505,39.09,N.V.,sparkling
+Carte Blanche N.V.,Germany,Baden,Geldermann,3.6,505,12.09,N.V.,sparkling
+Special Club Millesim de Collection Champagne N.V.,France,Champagne,Pierre Gimonnet & Fils,4.2,507,55.0,N.V.,sparkling
+Ros di Pinot Brut N.V.,Italy,Veneto,Ruggeri,3.6,512,11.9,N.V.,sparkling
+Brut Reserve N.V.,South Africa,Franschhoek,Colmant,3.8,512,23.5,N.V.,sparkling
+Tradition Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Paul Goerg,3.8,513,33.27,N.V.,sparkling
+Prosecco Frizzante N.V.,Italy,Prosecco,Riondo,3.6,518,7.95,N.V.,sparkling
+Il Grigio N.V.,Italy,Friuli-Venezia Giulia,Collavini,3.6,520,14.09,N.V.,sparkling
+Saumur Brut N.V.,France,Saumur,Mlle Ladubay,3.6,522,11.9,N.V.,sparkling
+Brut Blanc de Blancs Champagne N.V.,France,Champagne,Charles Heidsieck,4.2,524,74.78,N.V.,sparkling
+Crmant de Bourgogne Brut N.V.,France,Crmant de Bourgogne,Antonin Rodet,3.6,525,19.34,N.V.,sparkling
+Brut Ros (Reserve) N.V.,Austria,Niedersterreich,Loimer,3.8,528,19.86,N.V.,sparkling
+Punto Rosa Millesimato N.V.,Italy,Veneto,Val d'Oca,3.7,532,10.99,N.V.,sparkling
+Vendemmia Brut 2013,Italy,Franciacorta,Bellavista,4.2,535,37.9,2013,sparkling
+Ros Brut Premium Reserve Champagne N.V.,France,Champagne Premier Cru,Charles Mignon,4.0,542,37.88,N.V.,sparkling
+Blanc de Blancs Champagne Grand Cru N.V.,France,Champagne Grand Cru,Bruno Paillard,4.2,547,64.95,N.V.,sparkling
+L'Acino N.V.,Italy,Lambrusco Grasparossa di Castelvetro,Corte Manzini,3.8,554,12.9,N.V.,sparkling
+Asti N.V.,Italy,Asti,Cinzano,3.8,556,9.99,N.V.,sparkling
+Cuve dei Frati Brut Ros N.V.,Italy,Lombardia,C dei Frati,3.8,557,23.8,N.V.,sparkling
+Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,San Venanzio Fortunato,3.7,558,10.95,N.V.,sparkling
+Crmant de Loire Brut Ros N.V.,France,Crmant de Loire,Monmousseau,3.6,558,12.9,N.V.,sparkling
+Franciacorta Ros N.V.,Italy,Franciacorta,Mirabella,3.8,561,19.9,N.V.,sparkling
+Vouvray Brut N.V.,France,Vouvray,Vigneau-Chevreau,3.8,562,14.5,N.V.,sparkling
+Prestige Brut Champagne Grand Cru N.V.,France,Champagne Grand Cru 'Cramant',Bonnaire,4.0,565,43.9,N.V.,sparkling
+Brolese Franciacorta Extra Brut Ros N.V.,Italy,Franciacorta,Villa Crespia,3.8,569,16.99,N.V.,sparkling
+Brut Ros Champagne N.V.,France,Champagne,Leclerc Briant,3.9,569,53.7,N.V.,sparkling
+Ros Champagne N.V.,France,Champagne,Jacquart,3.8,570,32.99,N.V.,sparkling
+Millsim Brut Champagne 2013,France,Champagne,Taittinger,4.2,573,60.63,2013,sparkling
+Sptburgunder Brut Ros N.V.,Germany,Pfalz,Reichsrat von Buhl,3.8,581,19.9,N.V.,sparkling
+Cuve Josphine Brut Champagne N.V.,France,Champagne,Joseph Perrier,4.3,583,112.53,N.V.,sparkling
+L'Universelle Brut Champagne N.V.,France,Champagne,Baron Albert,3.7,585,25.98,N.V.,sparkling
+Crmant d'Alsace Brut Premium N.V.,France,Crmant d'Alsace,Bestheim,3.8,585,11.5,N.V.,sparkling
+Cuve D Champagne N.V.,France,Champagne,Veuve A. Devaux,4.0,586,36.59,N.V.,sparkling
+Quattuor Blanc de Quatre Blancs Brut Champagne N.V.,France,Champagne,Drappier,4.1,598,61.55,N.V.,sparkling
+1404 Prosecco N.V.,Italy,Prosecco,Casa Defr,3.7,601,8.77,N.V.,sparkling
+Crmant de Limoux Brut N.V.,France,Crmant de Limoux,Grard Bertrand,3.6,603,39.99,N.V.,sparkling
+Cava Brut Reserva Ros N.V.,Spain,Cava,Vilarnau,3.5,611,11.08,N.V.,sparkling
+Cristal Ros Brut Champagne (Millsim) 2007,France,Champagne,Louis Roederer,4.6,613,495.0,2007,sparkling
+Brut Champagne 2008,France,Champagne,Barons de Rothschild (Lafite),4.1,619,90.43,2008,sparkling
+Brut Millsim Champagne 2008,France,Champagne,Laurent-Perrier,4.2,624,59.95,2008,sparkling
+Treviso Prosecco Frizzante N.V.,Italy,Prosecco di Treviso,Borgo Molino,3.6,625,7.9,N.V.,sparkling
+Belle Epoque Blanc de Blancs Champagne N.V.,France,Champagne,Perrier-Jout,4.5,627,259.95,N.V.,sparkling
+Blanc de Blancs Brut N.V.,France,Alsace,Cavalier,3.2,630,8.0,N.V.,sparkling
+Riserva Lunelli 2009,Italy,Trento,Ferrari,4.3,631,51.59,2009,sparkling
+Jaume Codornu Gran Reserva Cava N.V.,Spain,Cava,Codornu,4.1,631,48.91,N.V.,sparkling
+Il Vino dei Poeti Ros Brut N.V.,Italy,Veneto,Bottega,3.5,633,19.9,N.V.,sparkling
+Cartizze Valdobbiadene Superiore Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Bisol,4.0,636,31.03,N.V.,sparkling
+Prosecco Treviso Frizzante N.V.,Italy,Prosecco di Treviso,Maschio dei Cavalieri,3.6,636,7.79,N.V.,sparkling
+The Peppermint Paddock Chambourcin N.V.,Australia,McLaren Vale,d'Arenberg,3.9,638,22.9,N.V.,sparkling
+Santo Stefano Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Ruggeri,3.8,638,11.7,N.V.,sparkling
+Weisser Mulatschak 2018,Austria,Burgenland,Meinklang,4.3,640,11.5,2018,sparkling
+Brut N.V.,Luxembourg,Luxembourg,Domaine Alice Hartmann,4.2,653,29.95,N.V.,sparkling
+Authentic Meunier Blanc de Noirs Brut Champagne N.V.,France,Champagne,Michel Loriot,3.9,654,26.12,N.V.,sparkling
+Lightly Sparkling - Sauvignon Blanc 2017,New Zealand,Marlborough,Villa Maria,4.0,667,10.99,2017,sparkling
+Sior Piero Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,V8+,3.8,674,13.07,N.V.,sparkling
+Fragolino Rosso N.V.,Italy,Emilia-Romagna,Bottega,3.7,676,7.99,N.V.,sparkling
+Blanc de Noirs Brut Champagne N.V.,France,Champagne,Alexandre Bonnet,3.8,681,33.75,N.V.,sparkling
+Brut Origine Champagne N.V.,France,Champagne,Tribaut Schloesser,3.8,686,26.95,N.V.,sparkling
+Grande Rserve Demi-Sec Champagne N.V.,France,Champagne,Baron-Fuent,3.9,688,19.95,N.V.,sparkling
+Prosecco di Conegliano-Valdobbiadene Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Collalto,3.8,690,10.95,N.V.,sparkling
+Motivo Ros Extra Dry N.V.,Italy,Veneto,Borgo Molino,3.9,692,9.9,N.V.,sparkling
+Blanc de Blancs Brut 25 N.V.,Italy,Franciacorta,Fratelli Berlucchi,3.8,692,15.9,N.V.,sparkling
+Cartizze N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Ruggeri,3.8,695,18.89,N.V.,sparkling
+Cartizze Vigna La Rivetta N.V.,Italy,Prosecco,Villa Sandi,4.0,695,25.5,N.V.,sparkling
+D'O Millesimato Extra Dry N.V.,Italy,Prosecco,Fattoria Conca d'Oro,3.7,701,9.95,N.V.,sparkling
+Lambrusco Grasparossa di Castelvetro Amabile N.V.,Italy,Lambrusco Grasparossa di Castelvetro,Chiarli 1860,3.7,724,6.59,N.V.,sparkling
+Extra Brut N.V.,Austria,Niedersterreich,Loimer,3.8,733,19.86,N.V.,sparkling
+Alghero Torbato Spumante Brut N.V.,Italy,Alghero,Sella & Mosca,3.6,733,14.41,N.V.,sparkling
+Blanc de Blancs Brut N.V.,France,Champagne,Barons de Rothschild (Lafite),4.1,736,70.41,N.V.,sparkling
+Prosecco N.V.,Italy,Prosecco,Sacchetto,3.5,736,7.69,N.V.,sparkling
+Prosecco Spumante Brut N.V.,Italy,Prosecco,Zonin,3.5,743,8.5,N.V.,sparkling
+Belle Epoque Brut Champagne 2012,France,Champagne,Perrier-Jout,4.4,743,95.53,2012,sparkling
+Demi-Sec Champagne N.V.,France,Champagne,Deutz,4.1,747,37.5,N.V.,sparkling
+Prosecco Valdobbiadene Superiore Millesimato 2017,Italy,Prosecco,Villa Sandi,3.8,753,11.21,2017,sparkling
+Novalia Franciacorta Brut N.V.,Italy,Franciacorta,Villa Crespia,3.7,758,16.45,N.V.,sparkling
+Prosecco Z Extra Dry N.V.,Italy,Prosecco,Zardetto,3.5,759,12.25,N.V.,sparkling
+White Label Champagne N.V.,France,Champagne,Lanson,3.9,761,39.9,N.V.,sparkling
+Riesling Brut 2015,Germany,Pfalz,Reichsrat von Buhl,3.8,763,14.9,2015,sparkling
+Cecilia B Spumante Ros N.V.,Italy,Vino d'Italia,Cecilia Beretta,4.0,764,9.59,N.V.,sparkling
+Crmant d'Alsace Brut Prestige N.V.,France,Crmant d'Alsace,Arthur Metz,3.7,777,12.19,N.V.,sparkling
+Dgorgement Tardif Millesim Extra Brut Champagne N.V.,France,Champagne,Jacquesson,4.4,783,189.0,N.V.,sparkling
+Pink Spago Argento N.V.,Italy,Veneto,Riondo,3.5,785,6.95,N.V.,sparkling
+Blanc de Noirs Brut Champagne N.V.,France,Champagne,Veuve A. Devaux,3.8,801,35.5,N.V.,sparkling
+Crmant d'Alsace Brut N.V.,France,Crmant d'Alsace,Bestheim,3.5,805,13.49,N.V.,sparkling
+Leonia Brut Millesimato Pomino N.V.,Italy,Pomino,Castello Pomino,3.9,805,32.96,N.V.,sparkling
+Brut Ros Champagne Premier Cru N.V.,France,Champagne Premier Cru,Marc Hbrart,4.0,806,32.5,N.V.,sparkling
+Pierre Jourdan Belle Ros N.V.,South Africa,Franschhoek,Haute Cabrire,3.6,806,16.9,N.V.,sparkling
+Brut N.V.,France,Loire Valley,Marquis de la Tour,3.7,816,8.25,N.V.,sparkling
+Cuve de Rserve Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Marc Hbrart,4.0,820,29.5,N.V.,sparkling
+Prosecco Extra Dry N.V.,Italy,Prosecco,Fili,3.7,824,11.08,N.V.,sparkling
+La Grande Dame Brut Champagne 2008,France,Champagne,Veuve Clicquot,4.4,833,142.99,2008,sparkling
+Reserve Brut N.V.,Germany,Pfalz,Reichsrat von Buhl,3.9,838,16.7,N.V.,sparkling
+Cava Brut N.V.,Spain,Cava,Grans Moments,3.5,850,9.58,N.V.,sparkling
+Amatista Moscato N.V.,Spain,Valencia,Reymos,3.9,855,4.89,N.V.,sparkling
+Prosecco Valdobbiadene Superiore Brut Oro Puro N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Valdo,3.5,856,8.93,N.V.,sparkling
+Premire Cuve Ros Brut Champagne N.V.,France,Champagne,Bruno Paillard,4.0,857,49.95,N.V.,sparkling
+Ros Dry-Sec N.V.,Germany,German Wine,Henkell,3.4,857,7.89,N.V.,sparkling
+Il Fresco Ros N.V.,Italy,Veneto,Villa Sandi,3.6,861,8.6,N.V.,sparkling
+Prosecco Treviso Brut N.V.,Italy,Prosecco di Treviso,Le Contesse,3.8,863,9.25,N.V.,sparkling
+Prosecco Extra Dry Collezione N.V.,Italy,Prosecco,Riondo,3.7,881,6.99,N.V.,sparkling
+Franciacorta Cuve Blanc de Blancs Brut N.V.,Italy,Franciacorta,Monogram,3.7,894,18.75,N.V.,sparkling
+1851 Brut N.V.,France,Saumur,Bouvet-Ladubay,3.6,894,10.5,N.V.,sparkling
+Riesling Brut 2016,Germany,Pfalz,Reichsrat von Buhl,3.9,897,14.9,2016,sparkling
+Vintage Brut Champagne 2008,France,Champagne,Veuve Clicquot,4.2,899,71.69,2008,sparkling
+Cava Gran Reserva Brut Nature Reserva de la Familia 2016,Spain,Cava,Juv & Camps,4.0,908,16.48,2016,sparkling
+Ros Brut Champagne (Vintage) 2013,France,Champagne,Louis Roederer,4.2,913,62.9,2013,sparkling
+Blanc de Blancs Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Paul Goerg,3.9,915,34.29,N.V.,sparkling
+Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Prosecco di Treviso,Val d'Oca,3.7,921,11.6,N.V.,sparkling
+Grner Veltliner Brut N.V.,Austria,Niedersterreich,Szigeti,3.8,928,12.87,N.V.,sparkling
+Quartese Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Ruggeri,3.7,935,10.99,N.V.,sparkling
+Argeo Prosecco Brut N.V.,Italy,Prosecco di Treviso,Ruggeri,3.6,952,9.89,N.V.,sparkling
+Maximum Ros N.V.,Italy,Trento,Ferrari,3.9,957,23.99,N.V.,sparkling
+Brut N.V.,Italy,Trentino-Alto Adige,Arunda,3.7,958,19.8,N.V.,sparkling
+Blanc de Blancs Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Marc Hbrart,4.1,958,31.5,N.V.,sparkling
+Frizzante Ros N.V.,Italy,Veneto,Villa Teresa,3.9,965,7.2,N.V.,sparkling
+Otello 1813 Nero di Lambrusco 2015,Italy,Emilia,Ceci,4.0,974,14.9,2015,sparkling
+Franciacorta Cuve Prestige Ros N.V.,Italy,Franciacorta,Ca' del Bosco,4.0,982,38.9,N.V.,sparkling
+Slection Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Marc Hbrart,4.1,998,33.0,N.V.,sparkling
+Cava Extremarium de Mont Maral Reserva Brut N.V.,Spain,Cava,Mont Maral,3.6,1003,10.95,N.V.,sparkling
+Brut Apanage Prestige Champagne N.V.,France,Champagne,Pommery,4.1,1008,65.49,N.V.,sparkling
+Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Bepin de Eto,3.8,1009,10.85,N.V.,sparkling
+Sparkling Angel Brut N.V.,Chile,Central Valley,Montes,3.6,1009,18.5,N.V.,sparkling
+Cuve Essentiel Brut Champagne N.V.,France,Champagne,Piper-Heidsieck,3.9,1016,42.99,N.V.,sparkling
+Gold White N.V.,Italy,Oltrep Pavese,Bottega,3.7,1016,22.5,N.V.,sparkling
+Ros Brut N.V.,Italy,Veneto,Foss Marai,3.8,1020,14.0,N.V.,sparkling
+Cuve de Reserve Brut Champagne N.V.,France,Champagne,Gallimard Pre & Fils,4.1,1023,55.0,N.V.,sparkling
+Blanc de Blancs Reserva N.V.,Spain,Cava,Anna de Codorniu,3.7,1033,16.32,N.V.,sparkling
+Ros Brut Champagne (Vintage) 2011,France,Champagne,Louis Roederer,4.3,1033,62.9,2011,sparkling
+Surfine Cuve Brut N.V.,Italy,Veneto,Foss Marai,3.7,1034,12.7,N.V.,sparkling
+Brut Ros N.V.,Austria,Niedersterreich,Weingut Brndlmayer,4.0,1034,23.66,N.V.,sparkling
+Brut Classique N.V.,South Africa,Stellenbosch,L'Ormarins,3.8,1035,17.49,N.V.,sparkling
+Casa di Malia Prosecco (Organic) N.V.,Italy,Prosecco,Botter,3.8,1041,9.71,N.V.,sparkling
+Blanc de Blancs Brut Champagne N.V.,France,Champagne,Bruno Paillard,4.3,1051,64.95,N.V.,sparkling
+Cava Brut Ros N.V.,Spain,Cava,Castillo Perelada,3.5,1062,12.9,N.V.,sparkling
+Brut Millsim Champagne 2006,France,Champagne,Laurent-Perrier,4.2,1074,54.0,2006,sparkling
+Brut Grand Millesim Champagne 2006,France,Champagne,Gosset,4.2,1086,67.5,2006,sparkling
+Les Folies de la Marquetterie Champagne N.V.,France,Champagne,Taittinger,4.1,1087,64.27,N.V.,sparkling
+Filanda Ros Brut Millesimato Riserva N.V.,Italy,Oltrep Pavese,Bortolomiol,3.9,1114,14.88,N.V.,sparkling
+Pinot Noir Brut Nature Ros Champagne N.V.,France,Champagne,Drappier,4.0,1115,36.79,N.V.,sparkling
+Blanc de Blancs N.V.,Italy,Franciacorta,Montenisa,3.8,1120,32.07,N.V.,sparkling
+Origine Brut Champagne N.V.,France,Champagne,Mandois,3.8,1125,28.45,N.V.,sparkling
+Crmant de Bourgogne Brut Blanc de Blancs N.V.,France,Crmant de Bourgogne,Cave de Lugny,3.6,1126,11.85,N.V.,sparkling
+Il Fresco Blanc de Blancs Brut N.V.,Italy,Veneto,Villa Sandi,3.5,1134,6.9,N.V.,sparkling
+Prosecco Treviso Extra Dry N.V.,Italy,Prosecco di Treviso,Val d'Oca,3.5,1155,8.68,N.V.,sparkling
+Essentiel Cuve Rserve Brut Champagne N.V.,France,Champagne,Piper-Heidsieck,3.9,1158,46.01,N.V.,sparkling
+Vivo Blu N.V.,Italy,Veneto,Mionetto,3.5,1163,8.39,N.V.,sparkling
+Valdobbiadene Prosecco Superiore Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Borgo Molino,3.7,1164,13.4,N.V.,sparkling
+Crmant de Loire Brut Blanc N.V.,France,Crmant de Loire,Monmousseau,3.6,1165,12.9,N.V.,sparkling
+'Giulio Ferrari' Riserva del Fondatore 2007,Italy,Trento,Ferrari,4.6,1191,122.27,2007,sparkling
+Prosecco Treviso Extra Dry N.V.,Italy,Prosecco di Treviso,Montelliana,3.7,1194,8.5,N.V.,sparkling
+Excellence Brut Ros N.V.,France,Loire Valley,Bouvet-Ladubay,3.8,1204,12.0,N.V.,sparkling
+Concerto Lambrusco Reggiano 2017,Italy,Reggiano,Medici Ermete,3.7,1204,10.67,2017,sparkling
+Strada di Guia 109 Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Foss Marai,3.8,1231,13.72,N.V.,sparkling
+La Grande Anne Brut Champagne 2008,France,Champagne,Bollinger,4.5,1237,121.15,2008,sparkling
+Flamingo Brut Ros N.V.,Italy,Franciacorta,Monte Rossa,3.8,1242,27.9,N.V.,sparkling
+Franciacorta Brut N.V.,Italy,Franciacorta,Ricci Curbastro,3.8,1247,23.0,N.V.,sparkling
+Ros de Saigne Champagne Premier Cru N.V.,France,Champagne Premier Cru,Larmandier-Bernier,4.1,1251,67.5,N.V.,sparkling
+Grande Reserve Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,J.M. Gobillard & Fils,3.9,1254,31.95,N.V.,sparkling
+Prosecco N.V.,Italy,Prosecco,Canella,3.6,1266,10.18,N.V.,sparkling
+Prosecco Treviso Extra Dry N.V.,Italy,Prosecco di Treviso,Viticoltori Ponte,3.6,1272,8.9,N.V.,sparkling
+Blanc de Blancs Brut Champagne Grand Cru 'A' N.V.,France,Champagne Grand Cru 'A',Lallier,4.0,1306,55.05,N.V.,sparkling
+Brut Champagne (Extra Cuve de Rserve) 2012,France,Champagne,Pol Roger,4.4,1315,60.44,2012,sparkling
+Rive di San Pietro di Barbozza Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Val d'Oca,3.9,1322,12.9,N.V.,sparkling
+Cava Brut Rosado N.V.,Spain,Cava,Segura Viudas,3.5,1333,9.5,N.V.,sparkling
+Ros Champagne N.V.,France,Champagne,Barons de Rothschild (Lafite),4.1,1348,65.38,N.V.,sparkling
+Quartet Brut N.V.,United States,Anderson Valley,Roederer Estate,3.7,1354,34.9,N.V.,sparkling
+Perle Rose Brut Champagne N.V.,France,Champagne,Alexandre Bonnet,3.6,1356,36.85,N.V.,sparkling
+Demi-Sec N.V.,Italy,Trento,Ferrari,3.7,1362,23.87,N.V.,sparkling
+Crmant de Loire Brut N.V.,France,Crmant de Loire,De Chanceny,3.7,1370,11.95,N.V.,sparkling
+Prosecco N.V.,Italy,Prosecco,Villa Teresa,3.8,1396,7.6,N.V.,sparkling
+Brut Ros Champagne 2006,France,Champagne,Dom Prignon,4.6,1414,315.0,2006,sparkling
+Moxxe Pinot Grigio - Verduzzo N.V.,Italy,Valpolicella,Masi,3.6,1424,15.2,N.V.,sparkling
+Cuve Sublime Demi-Sec Champagne N.V.,France,Champagne,Piper-Heidsieck,4.0,1434,39.99,N.V.,sparkling
+Blanc de Blancs Brut Champagne Grand Cru 'Chouilly' N.V.,France,Champagne Grand Cru 'Chouilly',Legras & Haas,4.0,1435,41.93,N.V.,sparkling
+Arte Tradicional Brut Espumante 2017,Brazil,Vale dos Vinhedos,Casa Valduga,3.8,1440,13.47,2017,sparkling
+Brut Champagne Premier Cru N.V.,France,Champagne Premier Cru,Autrau de Champillon,3.9,1459,23.9,N.V.,sparkling
+Asti N.V.,Italy,Asti,Acquesi,3.9,1487,7.96,N.V.,sparkling
+Grande Rserve Brut Champagne N.V.,France,Champagne,Veuve A. Devaux,3.8,1490,29.9,N.V.,sparkling
+Tresor Brut N.V.,France,Saumur,Bouvet-Ladubay,3.8,1508,16.2,N.V.,sparkling
+Cava Reserva Brut N.V.,Spain,Cava,Mont Maral,3.6,1510,7.75,N.V.,sparkling
+Cava Barcelona Brut Reserva N.V.,Spain,Cava,Vilarnau,3.7,1513,11.98,N.V.,sparkling
+Il Soller Prosecco di Valdobbiadene Superiore Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Marsuret,3.8,1525,10.9,N.V.,sparkling
+Cuve No 741 Extra Brut Champagne N.V.,France,Champagne,Jacquesson,4.1,1533,49.95,N.V.,sparkling
+Tradition Brut Champagne N.V.,France,Champagne,J.M. Gobillard & Fils,3.9,1540,28.95,N.V.,sparkling
+Cremant d'Alsace Cuve Prestige N.V.,France,Crmant d'Alsace,Ren Mur,3.8,1549,15.9,N.V.,sparkling
+Carte Blanche Champagne (Demi-Sec) N.V.,France,Champagne,Louis Roederer,4.1,1615,44.74,N.V.,sparkling
+Brut Reserva N.V.,Spain,Cava,Vilarnau,3.5,1641,11.08,N.V.,sparkling
+Prosecco Treviso N.V.,Italy,Prosecco di Treviso,Cecilia Beretta,3.8,1673,11.8,N.V.,sparkling
+Gold Ros N.V.,Italy,Oltrep Pavese,Bottega,3.7,1679,20.5,N.V.,sparkling
+Cuve 28+ Brut N.V.,Italy,Trento,Rotari,3.6,1692,13.15,N.V.,sparkling
+Crmant de Loire L'Extra N.V.,France,Crmant de Loire,Langlois-Chateau,3.8,1711,13.3,N.V.,sparkling
+Crmant d'Alsace Cuve Julien Brut N.V.,France,Crmant d'Alsace,Dopff au Moulin,3.6,1737,13.95,N.V.,sparkling
+Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Col Vetoraz,3.8,1767,12.5,N.V.,sparkling
+Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Bepin de Eto,3.9,1772,10.5,N.V.,sparkling
+Mthode Cap Classique Ros N.V.,South Africa,Western Cape,Pongrcz,3.7,1777,15.5,N.V.,sparkling
+Prosecco Treviso Extra Dry N.V.,Italy,Prosecco di Treviso,Le Contesse,3.7,1778,7.55,N.V.,sparkling
+Grande Ros N.V.,France,Champagne,Montaudon,3.9,1779,24.99,N.V.,sparkling
+Demi-Sec Champagne N.V.,France,Champagne,Taittinger,4.2,1814,47.18,N.V.,sparkling
+Brut Ros N.V.,Italy,Trento,Rotari,3.4,1830,9.75,N.V.,sparkling
+Brut Champagne 2004,France,Champagne,Krug,4.6,1853,229.0,2004,sparkling
+Prosecco Valdobbiadene Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Villa Sandi,3.8,1861,10.5,N.V.,sparkling
+Grand Blanc de Blancs Brut Champagne N.V.,France,Champagne,Gosset,4.1,1874,50.69,N.V.,sparkling
+Reserve Ros Champagne N.V.,France,Champagne,Charles Heidsieck,4.1,1884,62.69,N.V.,sparkling
+Extra Age Brut Champagne N.V.,France,Champagne,Lanson,4.2,1915,49.95,N.V.,sparkling
+Prosecco Extra Dry Spumante N.V.,Italy,Prosecco di Treviso,Valdo,3.6,1922,7.5,N.V.,sparkling
+Sparkling Ros N.V.,Italy,Vino d'Italia,Ruffino,3.7,1944,16.54,N.V.,sparkling
+Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Nino Franco,3.7,1996,13.9,N.V.,sparkling
+Prosecco Brut N.V.,Italy,Prosecco,Maschio,3.6,2034,10.01,N.V.,sparkling
+Ultra Brut Champagne (Brut Nature) N.V.,France,Champagne,Laurent-Perrier,4.1,2051,62.4,N.V.,sparkling
+Cava Carta Nevada Premium Semi Dry (Semi-Seco) N.V.,Spain,Catalunya,Freixenet,3.6,2058,8.49,N.V.,sparkling
+Brut Nature Champagne (Philippe Starck) 2009,France,Champagne,Louis Roederer,4.2,2074,79.9,2009,sparkling
+Crmant d'Alsace Brut Millsime N.V.,France,Crmant d'Alsace,Arthur Metz,3.6,2090,12.19,N.V.,sparkling
+Excellence Brut Crmant de Loire N.V.,France,Crmant de Loire,Bouvet-Ladubay,3.8,2115,11.0,N.V.,sparkling
+Z Prosecco Brut N.V.,Italy,Prosecco,Zardetto,3.6,2128,9.5,N.V.,sparkling
+Prosecco Conegliano Valdobbiadene Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Cecilia Beretta,3.8,2161,14.32,N.V.,sparkling
+Blanc de Noirs Brut Champagne N.V.,France,Champagne,Fleury,4.0,2181,40.95,N.V.,sparkling
+Cuve dei Frati Brut N.V.,Italy,Lombardia,C dei Frati,3.8,2239,16.88,N.V.,sparkling
+Brut Ros (Pink) N.V.,Spain,Cava,Anna de Codorniu,3.6,2298,12.89,N.V.,sparkling
+Cava Gran Cuve Reserva N.V.,Spain,Cava,Segura Viudas,3.8,2313,15.65,N.V.,sparkling
+Comtes de Champagne Blanc de Blancs 2007,France,Champagne,Taittinger,4.5,2326,157.81,2007,sparkling
+Ros N.V.,Italy,Trento,Ferrari,3.8,2350,21.8,N.V.,sparkling
+Brut Ros Champagne N.V.,France,Champagne,Krug,4.6,2376,299.0,N.V.,sparkling
+Cristal Brut Champagne (Millsim) 2005,France,Champagne,Louis Roederer,4.6,2385,251.23,2005,sparkling
+Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Jeio,3.6,2408,15.43,N.V.,sparkling
+Crmant de Loire Ros Brut N.V.,France,Crmant de Loire,De Chanceny,3.8,2442,11.95,N.V.,sparkling
+Cuve de l'cusson Brut N.V.,Luxembourg,Moselle,Bernard-Massard,3.7,2444,17.1,N.V.,sparkling
+Franciacorta Satn N.V.,Italy,Franciacorta,Ca' del Bosco,4.2,2444,44.0,N.V.,sparkling
+Famiglia dal 1908 Prosecco N.V.,Italy,Prosecco,Cielo e Terra,3.7,2458,5.99,N.V.,sparkling
+Cuve William Deutz Millesim Brut Champagne N.V.,France,Champagne,Deutz,4.4,2496,130.0,N.V.,sparkling
+Cristal Brut Champagne (Millsim) 2002,France,Champagne,Louis Roederer,4.7,2607,363.75,2002,sparkling
+Prosecco Treviso Extra Dry N.V.,Italy,Prosecco di Treviso,Maschio dei Cavalieri,3.6,2617,10.29,N.V.,sparkling
+Franciacorta Ros N.V.,Italy,Franciacorta,Contadi Castaldi,3.8,2649,19.9,N.V.,sparkling
+Rare Brut Champagne (Millesim) 2002,France,Champagne,Piper-Heidsieck,4.5,2674,202.01,2002,sparkling
+Riesling Brut N.V.,Germany,Pfalz,Reichsrat von Buhl,3.8,2693,15.5,N.V.,sparkling
+7 Crus Brut Champagne Grand Cru 'Avize' N.V.,France,Champagne Grand Cru 'Avize',Agrapart & Fils,4.1,2700,45.72,N.V.,sparkling
+Cristal Brut Champagne (Millsim) 2008,France,Champagne,Louis Roederer,4.6,2729,237.65,2008,sparkling
+Grand Vintage Brut Champagne 2009,France,Champagne,Mot & Chandon,4.2,2737,67.29,2009,sparkling
+Cuve Brut Champagne N.V.,France,Champagne,Jeanmaire,3.5,2739,25.97,N.V.,sparkling
+Brut Champagne N.V.,France,Champagne,Besserat de Bellefon,4.0,2752,29.9,N.V.,sparkling
+Cuve Brut Champagne N.V.,France,Champagne,Piper-Heidsieck,3.9,2781,44.54,N.V.,sparkling
+1754 Prosecco N.V.,Italy,Prosecco,Casa Defr,3.8,2789,11.65,N.V.,sparkling
+Grande Rserve Brut Champagne N.V.,France,Champagne,Baron-Fuent,3.8,2818,21.5,N.V.,sparkling
+Brut Grand Ros Champagne N.V.,France,Champagne,Gosset,4.1,2820,33.0,N.V.,sparkling
+Nocturne Champagne (Sec) N.V.,France,Champagne,Taittinger,4.1,2829,52.73,N.V.,sparkling
+Sur Lie Nature N.V.,Brazil,Rio Grande do Sul,Casa Valduga,4.1,2837,16.61,N.V.,sparkling
+Prima Cuve Brut N.V.,Italy,Franciacorta,Monte Rossa,3.8,2861,23.3,N.V.,sparkling
+Bosco di Gica Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Adami,3.8,2889,12.9,N.V.,sparkling
+Cristal Brut Champagne (Millsim) 2007,France,Champagne,Louis Roederer,4.6,2949,223.23,2007,sparkling
+Corderie Prosecco Valdobbiadene Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Astoria,3.6,2955,10.3,N.V.,sparkling
+Cava Pinot Noir Ros Brut N.V.,Spain,Cava,Juv & Camps,3.7,2992,15.98,N.V.,sparkling
+Crede Valdobbiadene Prosecco Superiore Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Bisol,3.8,3011,19.43,N.V.,sparkling
+La Grande Anne Brut Champagne 2007,France,Champagne,Bollinger,4.4,3047,119.0,2007,sparkling
+Giall'Oro Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Ruggeri,3.9,3084,10.89,N.V.,sparkling
+Valdobbiadene Prosecco Superiore Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Col Vetoraz,3.9,3088,12.5,N.V.,sparkling
+Bandarossa Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Bortolomiol,3.9,3121,14.9,N.V.,sparkling
+Terroirs Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize' N.V.,France,Champagne Grand Cru 'Avize',Agrapart & Fils,4.2,3170,57.0,N.V.,sparkling
+Blanc de Blancs Brut Champagne Grand Cru N.V.,France,Champagne Grand Cru,Billecart-Salmon,4.3,3206,59.8,N.V.,sparkling
+Strada di Guia 109 Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Foss Marai,3.9,3281,13.72,N.V.,sparkling
+Blanc de Blancs Brut Champagne (Vintage) N.V.,France,Champagne,Louis Roederer,4.2,3338,69.95,N.V.,sparkling
+Brut N.V.,United States,Puget Sound,Domaine Ste. Michelle,3.6,3360,13.9,N.V.,sparkling
+Franciacorta Brut N.V.,Italy,Lombardia,Ferghettina,3.8,3417,29.35,N.V.,sparkling
+Brut Ros N.V.,France,Beaune,Veuve du Vernay,3.7,3418,8.64,N.V.,sparkling
+Longitude Blanc de Blancs Champagne Premier Cru N.V.,France,Champagne Premier Cru,Larmandier-Bernier,4.1,3575,48.5,N.V.,sparkling
+Grand Cordon Brut Champagne N.V.,France,Champagne,G.H. Mumm,3.9,3582,36.0,N.V.,sparkling
+Asti Dolce N.V.,Italy,Asti,Fontanafredda,3.7,4127,16.5,N.V.,sparkling
+Prestige Collection Extra Dry Prosecco Treviso N.V.,Italy,Prosecco di Treviso,Mionetto,3.6,4135,10.89,N.V.,sparkling
+Brut Ros (Rose Label) Champagne N.V.,France,Champagne,Lanson,3.9,4143,34.95,N.V.,sparkling
+Brut (Chardonnay - Pinot Noir) N.V.,South Africa,Robertson,Graham Beck,3.8,4214,16.9,N.V.,sparkling
+Brut Tradition Champagne Grand Cru 'Ambonnay' N.V.,France,Champagne Grand Cru 'Ambonnay',Egly-Ouriet,4.3,4301,73.0,N.V.,sparkling
+Cava Brut Reserva N.V.,Spain,Cava,Castillo Perelada,3.5,4329,12.5,N.V.,sparkling
+Blanc de Blancs Cuve Cuis Brut Champagne 1er Cru N.V.,France,Champagne Premier Cru,Pierre Gimonnet & Fils,4.0,4381,29.9,N.V.,sparkling
+Comtes de Champagne Blanc de Blancs 2006,France,Champagne,Taittinger,4.5,4438,145.19,2006,sparkling
+Prlude Grands Crus Brut Champagne N.V.,France,Champagne,Taittinger,4.2,4540,57.15,N.V.,sparkling
+Grande Rserve Brut Champagne N.V.,France,Champagne,Alexandre Bonnet,3.8,4551,32.95,N.V.,sparkling
+Cava Brut Reserva N.V.,Spain,Cava,Segura Viudas,3.6,4627,9.25,N.V.,sparkling
+Gold N.V.,Italy,Veneto,Bottega,3.7,4683,20.5,N.V.,sparkling
+Blanc de Blancs Brut N.V.,Spain,Cava,Anna de Codorniu,3.6,4688,11.99,N.V.,sparkling
+Alma Cuve Brut N.V.,Italy,Franciacorta,Bellavista,3.9,4736,27.9,N.V.,sparkling
+La Cuve Brut Champagne N.V.,France,Champagne,Laurent-Perrier,4.0,4740,37.4,N.V.,sparkling
+Prosecco N.V.,Italy,Prosecco,Albino Armani,3.8,4800,11.95,N.V.,sparkling
+Ros Sauvage Brut Champagne N.V.,France,Champagne,Piper-Heidsieck,3.8,4846,45.49,N.V.,sparkling
+Prestige Ros Brut Champagne N.V.,France,Champagne,Taittinger,4.1,4847,48.64,N.V.,sparkling
+Prosecco Cuve 1821 N.V.,Italy,Prosecco,Zonin,3.7,4948,8.59,N.V.,sparkling
+Brut Champagne (Cuve Royale) N.V.,France,Champagne,Joseph Perrier,3.8,4982,35.0,N.V.,sparkling
+Demi-Sec Champagne N.V.,France,Champagne,Veuve Clicquot,4.3,5006,51.49,N.V.,sparkling
+Cava Brut Seleccin N.V.,Spain,Cava,Villa Conchi,3.7,5059,8.99,N.V.,sparkling
+Petalo Moscato Il Vino Dell'Amore N.V.,Italy,Veneto,Bottega,3.9,5095,12.79,N.V.,sparkling
+Prosecco Il Fresco Spumante N.V.,Italy,Prosecco di Treviso,Villa Sandi,3.6,5148,9.36,N.V.,sparkling
+Ros Brut Champagne N.V.,France,Champagne,Deutz,4.1,5236,47.9,N.V.,sparkling
+Trocken Dry-Sec N.V.,Germany,German Wine,Henkell,3.3,5677,7.89,N.V.,sparkling
+Pinot Noir Brut Nature Champagne N.V.,France,Champagne,Drappier,4.1,5708,32.99,N.V.,sparkling
+Rustico Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Nino Franco,3.8,5865,12.5,N.V.,sparkling
+Maximum Brut N.V.,Italy,Trento,Ferrari,3.8,5937,19.7,N.V.,sparkling
+Mthode Cap Classique Pinot Noir - Chardonnay Brut N.V.,South Africa,Western Cape,Pongrcz,3.7,6078,13.9,N.V.,sparkling
+Grand Sicle Champagne (Grande Cuve) N.V.,France,Champagne,Laurent-Perrier,4.5,6095,149.9,N.V.,sparkling
+Brut Champagne N.V.,France,Champagne,Barons de Rothschild (Lafite),4.1,6170,44.29,N.V.,sparkling
+Aimery Crmant de Limoux Grande Cuve 1531 N.V.,France,Crmant de Limoux,Sieur d'Arques,3.8,6245,10.85,N.V.,sparkling
+Prosecco N.V.,Italy,Prosecco,Zonin,3.5,6293,5.75,N.V.,sparkling
+Premire Cuve Brut Champagne N.V.,France,Champagne,Bruno Paillard,4.1,6392,39.95,N.V.,sparkling
+Blue Top Brut Champagne N.V.,France,Champagne,Heidsieck & Co. Monopole,3.7,6481,29.79,N.V.,sparkling
+Brut Champagne N.V.,France,Champagne,Montaudon,3.9,6569,19.99,N.V.,sparkling
+Mosaque Brut Champagne N.V.,France,Champagne,Jacquart,3.8,6753,26.99,N.V.,sparkling
+Valdobbiadene Prosecco Superiore N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Santa Margherita,3.7,6835,11.29,N.V.,sparkling
+Cuve 18 Prosecco Frizzante (Spago Nero) N.V.,Italy,Prosecco,Riondo,3.9,6873,6.5,N.V.,sparkling
+Prestige Collection Brut Prosecco Treviso N.V.,Italy,Prosecco di Treviso,Mionetto,3.6,7378,10.69,N.V.,sparkling
+Grande Rserve Brut Champagne N.V.,France,Champagne,Gosset,4.1,7496,32.5,N.V.,sparkling
+Blason Ros Brut Champagne N.V.,France,Champagne,Perrier-Jout,4.2,7569,55.0,N.V.,sparkling
+Carte d'Or Brut Champagne N.V.,France,Champagne,Drappier,3.9,7787,29.79,N.V.,sparkling
+Alma Gran Cuve Brut N.V.,Italy,Franciacorta,Bellavista,3.9,7950,25.25,N.V.,sparkling
+Ros Brut Champagne N.V.,France,Champagne,Bollinger,4.2,8025,69.5,N.V.,sparkling
+Brut Champagne 2008,France,Champagne,Dom Prignon,4.6,8349,170.59,2008,sparkling
+Valdobbiadene Prosecco Superiore Millesimato Brut N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Ca'Val,3.5,8371,13.95,N.V.,sparkling
+Prosecco Superiore Conegliano Valdobbiadene Extra Dry N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Carpen Malvolti,3.7,8439,12.29,N.V.,sparkling
+Prosecco N.V.,Italy,Prosecco,Ruffino,3.7,8695,16.54,N.V.,sparkling
+Ros Brut Champagne (Vintage) N.V.,France,Champagne,Louis Roederer,4.2,8770,63.95,N.V.,sparkling
+Cava Reserva Heredad Brut N.V.,Spain,Cava,Segura Viudas,3.9,10697,32.19,N.V.,sparkling
+Ice Imprial (Demi-Sec) Champagne N.V.,France,Champagne,Mot & Chandon,4.2,10963,57.0,N.V.,sparkling
+Brut Ros Champagne N.V.,France,Champagne,Ruinart,4.3,11756,63.28,N.V.,sparkling
+Brut Champagne N.V.,France,Champagne,Piper-Heidsieck,3.9,11839,37.82,N.V.,sparkling
+Belle Epoque Brut Champagne N.V.,France,Champagne,Perrier-Jout,4.5,12146,152.39,N.V.,sparkling
+Brut Rserve Champagne N.V.,France,Champagne,Charles Heidsieck,4.1,12493,51.49,N.V.,sparkling
+Prosecco Valdobbiadene Superiore Marca Oro N.V.,Italy,Conegliano-Valdobbiadene Prosecco,Valdo,3.7,12610,7.95,N.V.,sparkling
+Black Label Champagne Brut N.V.,France,Champagne,Lanson,3.8,13652,33.5,N.V.,sparkling
+Brut Ros Champagne N.V.,France,Champagne,Billecart-Salmon,4.4,13969,59.0,N.V.,sparkling
+Brut Ros Champagne N.V.,France,Champagne,Veuve Clicquot,4.3,14193,53.9,N.V.,sparkling
+Brut (R de Ruinart) Champagne N.V.,France,Champagne,Ruinart,4.2,14475,47.44,N.V.,sparkling
+Trento Brut N.V.,Italy,Trento,Ferrari,3.7,15719,19.45,N.V.,sparkling
+Grande Cuve Brut Champagne N.V.,France,Champagne,Krug,4.6,16160,189.0,N.V.,sparkling
+Classic Brut Champagne N.V.,France,Champagne,Deutz,4.0,16690,39.5,N.V.,sparkling
+Brut Rserve Champagne N.V.,France,Champagne,Billecart-Salmon,4.2,17403,38.41,N.V.,sparkling
+Royal Brut Champagne N.V.,France,Champagne,Pommery,3.9,17671,37.89,N.V.,sparkling
+Franciacorta Cuve Prestige N.V.,Italy,Franciacorta,Ca' del Bosco,4.1,19311,26.09,N.V.,sparkling
+Rserve Brut Champagne N.V.,France,Champagne,Pol Roger,4.2,20136,38.5,N.V.,sparkling
+Blanc de Blancs Brut Champagne N.V.,France,Champagne,Ruinart,4.4,21106,63.28,N.V.,sparkling
+(Cordon Rouge) Brut Champagne N.V.,France,Champagne,G.H. Mumm,3.9,21726,37.69,N.V.,sparkling
+Imprial Ros Brut Champagne N.V.,France,Champagne,Mot & Chandon,4.1,22557,48.66,N.V.,sparkling
+Brut Cuve Champagne Ros N.V.,France,Champagne,Laurent-Perrier,4.3,23316,69.0,N.V.,sparkling
+Grand Brut Champagne N.V.,France,Champagne Grand Cru,Perrier-Jout,4.1,26726,43.69,N.V.,sparkling
+Brut (Rserve) Champagne N.V.,France,Champagne,Taittinger,4.1,30090,35.9,N.V.,sparkling
+Special Cuve Brut A Champagne N.V.,France,Champagne,Bollinger,4.2,37765,46.0,N.V.,sparkling
+Brut Premier Champagne N.V.,France,Champagne Premier Cru,Louis Roederer,4.2,40004,36.48,N.V.,sparkling
+Imprial Brut Champagne N.V.,France,Champagne,Mot & Chandon,4.1,76037,40.61,N.V.,sparkling
+Brut (Carte Jaune) Champagne N.V.,France,Champagne,Veuve Clicquot,4.2,86839,43.6,N.V.,sparkling
+Brut Champagne N.V.,France,Champagne,Dom Prignon,4.6,94287,170.0,N.V.,sparkling
